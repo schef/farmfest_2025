@@ -29,82 +29,82 @@ aFourL = {}
 }
 
 staffOne = \relative c' {
-  \key d \major
+  \key e \major
   \time 4/4
   %\tempo 4 = 60
   \partial 4
-  d8 e8 \bar "||" |
+  e8 fis8 \bar "||" |
   \markMoj
-  fis2 r8 d8 e8. d16 |
-  d8 h8 ~h4 r4 d8 e8 |
-  fis2 r8 d8 e8. d16 |
-  d2 r4 d8 e8 | \break
-  fis2 r8 d8 e8. d16 |
-  d8 h8 ~h4 r4 a'8 g8 |
-  fis2 r8 a,8 e'8. d16 |
-  d2 r4 fis8 a8 \bar "||" | \break
-  h2 ~h8 a8 h8. a16 |
-  a8 fis8 ~fis4 r4 fis8 a8 |
-  h2 ~h8 a8 a8. fis16 |
-  e2 r4 d8 e8 | \break
-  fis2 r8 d8 e8. d16 |
-  d8 h8 ~h4 r4 a'8 g8 |
-  fis2 r8 a,8 e'8. d16 |
-  d2 r4 a'8 h8 \bar "||" | \break
+  gis2 r8 e8 fis8. e16 |
+  e8 cis8 ~cis4 r4 e8 fis8 |
+  gis2 r8 e8 fis8. e16 |
+  e2 r4 e8 fis8 | \break
+  gis2 r8 e8 fis8. e16 |
+  e8 cis8 ~cis4 r4 h'8 a8 |
+  gis2 r8 h,8 fis'8. e16 |
+  e2 r4 gis8 h8 \bar "||" | \break
+  cis2 ~cis8 h8 cis8. h16 |
+  h8 gis8 ~gis4 r4 gis8 h8 |
+  cis2 ~cis8 h8 h8. gis16 |
+  fis2 r4 e8 fis8 | \break
+  gis2 r8 e8 fis8. e16 |
+  e8 cis8 ~cis4 r4 h'8 a8 |
+  gis2 r8 h,8 fis'8. e16 |
+  e2 r4 h'8 cis8 \bar "||" | \break
   \markMoj
-  d2 ~d8 a8 h16 (a8 )a16 |
-  e8 d8 r4 r4 a'8 h8 |
-  d2 r8 a8 h8. a16 |
-  a4 r4 r4 a8 h8 | \break
-  d2 ~d8 a8 h16 (a8 )a16 |
-  e8 d8 r4 r4 a'8. g16 |
-  fis2 r8 e8 fis16 (e8 )d16 |
-  d2 r8 d8 d8 cis16 h16 ~\bar "||" | \break
+  e2 ~e8 h8 cis16 (h8 )h16 |
+  fis8 e8 r4 r4 h'8 cis8 |
+  e2 r8 h8 cis8. h16 |
+  h4 r4 r4 h8 cis8 | \break
+  e2 ~e8 h8 cis16 (h8 )h16 |
+  fis8 e8 r4 r4 h'8. a16 |
+  gis2 r8 fis8 gis16 (fis8 )e16 |
+  e2 r8 e8 e8 dis16 cis16 ~\bar "||" | \break
   \markMoj
-  h2 r8 d16 d16 d8 cis16 h16 ~|
-  h2 r4 d8 a16 d16 ~|
-  d8 d16 d16 ~d8 d16 d16 ~d8 d16 d16 ~d16 e8 cis16 ~|
-  cis2 r8 d16 d16 d8 cis16 d16 ~|
-  d8 cis16 h16 ~h4 r8 fis'8 fis8 e16 d16 (~|
-  d8 cis16 h16 ~h2 )d8 d16 d16 ~|
-  d8 d16 d16 ~d8 d16 d16 ~d8 d16 d16 ~d16 e8 e16 ~|
-  e2 r2 |
+  cis2 r8 e16 e16 e8 dis16 cis16 ~|
+  cis2 r4 e8 h16 e16 ~|
+  e8 e16 e16 ~e8 e16 e16 ~e8 e16 e16 ~e16 fis8 dis16 ~|
+  dis2 r8 e16 e16 e8 dis16 e16 ~|
+  e8 dis16 cis16 ~cis4 r8 gis'8 gis8 fis16 e16 (~|
+  e8 dis16 cis16 ~cis2 )e8 e16 e16 ~|
+  e8 e16 e16 ~e8 e16 e16 ~e8 e16 e16 ~e16 fis8 fis16 ~|
+  fis2 r2 |
 }
 
 harmonyOne = \chordmode  {
   s4 |
-  d2. g4/d |
-  d1 |
-  s2. g4/d |
-  d1 |
-  h2.:m7 a4:m7 |
-  g2 gis2:dim7 |
-  d2/a a2 |
-  g2/d d4 d4/fis |
-  g1 |
-  d2. d4/fis |
-  g1 |
+  e2. a4/e |
+  e1 |
+  s2. a4/e |
+  e1 |
+  cis2.:m7 h4:m7 |
+  a2 ais2:dim7 |
+  e2/h h2 |
+  a2/e e4 e4/gis |
   a1 |
-  d2. g4/d |
-  d1 |
-  d2/a a2 |
-  d1 |
-  s2. g4 |
-  d1 |
+  e2. e4/gis |
+  a1 |
+  h1 |
+  e2. a4/e |
+  e1 |
+  e2/h h2 |
+  e1 |
+  s2. a4 |
+  e1 |
   s1 |
+  h1 |
+  cis2.:m7 h4:m7 |
+  a2 ais2:dim7 |
+  e2/h h2 |
+  e1 |
+  cis1:m7 |
   a1 |
-  h2.:m7 a4:m7 |
-  g2 gis2:dim7 |
-  d2/a a2 |
-  d1 |
-  h1:m7 |
-  g1 |
-  d1 |
+  e1 |
+  h1 |
+  cis1:m7 |
   a1 |
-  h1:m7 |
-  g1 |
-  d1 |
-  a1 |
+  e1 |
+  h1 |
   \bar "|."
 }
 

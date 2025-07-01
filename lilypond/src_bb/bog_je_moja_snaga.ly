@@ -32,23 +32,23 @@ staffOne = \relative c' {
   \time 4/4
   %\tempo 4 = 100
   \markMoj
-  e8 g8 g8 e8 g8 e4 (e8 )|
-  e8 d8 e8 d8 c4. (c8 )|
-  e8 g8 g8 e8 g8 g8 (a8 )a8 ~|
-  a2 r4 r8 c,8 |
-  e8 g8 g8 e8 g8 e4 g8 |
-  a4 g4 f8 e4 d8 ~|
-  d4 d8 d8 d8 d8 c8 d8 (|
-  d2 )r2 | \break
+  fis8 a8 a8 fis8 a8 fis4 (fis8 )|
+  fis8 e8 fis8 e8 d4. (d8 )|
+  fis8 a8 a8 fis8 a8 a8 (h8 )h8 ~|
+  h2 r4 r8 d,8 |
+  fis8 a8 a8 fis8 a8 fis4 a8 |
+  h4 a4 g8 fis4 e8 ~|
+  e4 e8 e8 e8 e8 d8 e8 (|
+  e2 )r2 | \break
   \markMoj
-  r4 c'8 c8 c8 c8 c8 c8 |
-  d4 c8 c8 ~c4 r4 |
-  r4 c8 a8 c4 c8 a8 |
-  d4 c8 c8 ~c4 r4 | \break
-  r4 c8 a8 c8 c8 c8 c8 |
-  d4 c4 h8 c4 d8 ~|
-  d4 c4 h4 a8 g8 ~|
-  g2 r2 \bar "|." |
+  r4 d'8 d8 d8 d8 d8 d8 |
+  e4 d8 d8 ~d4 r4 |
+  r4 d8 h8 d4 d8 h8 |
+  e4 d8 d8 ~d4 r4 | \break
+  r4 d8 h8 d8 d8 d8 d8 |
+  e4 d4 cis8 d4 e8 ~|
+  e4 d4 cis4 h8 a8 ~|
+  a2 r2 \bar "|." |
 }
 
 harmonyOne = \chordmode  {

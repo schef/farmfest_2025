@@ -76,11 +76,11 @@ song_list = [
 ]
 
 transposition_list = [
-    #Transposition("C", "./musescore/src_c", "./lilypond/src_c", "./lilypond/bin_c", None),
+    Transposition("C", "./musescore/src_c", "./lilypond/src_c", "./lilypond/bin_c", None),
     Transposition("Bb", "./musescore/src_bb",  "./lilypond/src_bb", "./lilypond/bin_bb", None),
-    #Transposition("Eb", "./musescore/src_eb",  "./lilypond/src_eb", "./lilypond/bin_eb", None),
-    #Transposition("Bass", "./musescore/src_c", "./lilypond/src_bass", "./lilypond/bin_bass", "transpose-bass"),
-    #Transposition("BassTonesOnly", "./musescore/src_c","./lilypond/src_bto", "./lilypond/bin_bto", "bass-tones-only")
+    Transposition("Eb", "./musescore/src_eb",  "./lilypond/src_eb", "./lilypond/bin_eb", None),
+    Transposition("Bass", "./musescore/src_c", "./lilypond/src_bass", "./lilypond/bin_bass", "transpose-bass"),
+    Transposition("BassTonesOnly", "./musescore/src_c","./lilypond/src_bto", "./lilypond/bin_bto", "bass-tones-only")
 ]
 
 def run_bash_cmd(cmd, logger=None, interaction={}, return_lines=True, return_code=False, cr_as_newline=False, remove_empty_lines=False):

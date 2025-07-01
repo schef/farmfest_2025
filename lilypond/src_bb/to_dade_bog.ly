@@ -29,59 +29,59 @@ aFourL = {}
 }
 
 staffOne = \relative c' {
-  \key a \major
+  \key h \major
   \time 3/4
   %\tempo 4 = 75
   \partial 4.
-  cis8 e8 a8 \bar "||" |
+  dis8 fis8 h8 \bar "||" |
   \time 5/8
   \markMoj
-  fis4 e8 e8 d8 |
+  gis4 fis8 fis8 e8 |
   \time 4/4
-  e4 cis4 r8 h8 cis8 fis8 |
+  fis4 dis4 r8 cis8 dis8 gis8 |
   \time 3/4
-  e8 d8 cis4 h4 |
-  a4. cis8 e8 a8 | \break
+  fis8 e8 dis4 cis4 |
+  h4. dis8 fis8 h8 | \break
   \time 5/8
-  fis4 e8 e8 d8 |
+  gis4 fis8 fis8 e8 |
   \time 4/4
-  e4 cis4 r8 h8 cis8 fis8 |
+  fis4 dis4 r8 cis8 dis8 gis8 |
   \time 3/4
-  e8 d8 cis4 h4 |
-  a4. a8 h8 e8 \bar "||" | \break
+  fis8 e8 dis4 cis4 |
+  h4. h8 cis8 fis8 \bar "||" | \break
   \time 5/8
   \markMoj
-  cis4 a8 d8 h8 |
-  e4 fis4 gis8 |
-  a4 gis8 fis8 a8 |
-  gis4 e8 e8 a8 \bar "||" | \break
+  dis4 h8 e8 cis8 |
+  fis4 gis4 ais8 |
+  h4 ais8 gis8 h8 |
+  ais4 fis8 fis8 h8 \bar "||" | \break
   \time 5/8
-  fis4 e8 e8 d8 |
+  gis4 fis8 fis8 e8 |
   \time 4/4
-  e4 cis4 r8 h8 cis8 fis8 |
+  fis4 dis4 r8 cis8 dis8 gis8 |
   \time 3/4
-  e8 d8 cis4 h4 |
-  a4. r8 r4 |
+  fis8 e8 dis4 cis4 |
+  h4. r8 r4 |
 }
 
 harmonyOne = \chordmode  {
   s4. |
-  d4. h8:m7 s8 |
-  e4 fis8:m s4 e4 s8 |
-  d4 a8/e s8 e4 |
-  a8 s4. a8/cis s8 |
-  d4. h4:m7 |
-  e4 fis4.:m e8 s4 |
-  d4 a4/e e4 |
-  a2 e4/gis |
-  a4 s8 h4:m7 |
-  a8/cis s8 d4. |
-  fis4.:m h8/dis s8 |
-  e4. a4/cis |
-  d4 s8 h4:m7 |
-  e8 s8 fis4.:m e4. |
-  d8 s8 a4/e e8 s8 |
-  a4. s8 a4/cis |
+  e4. cis8:m7 s8 |
+  fis4 gis8:m s4 fis4 s8 |
+  e4 h8/fis s8 fis4 |
+  h8 s4. h8/dis s8 |
+  e4. cis4:m7 |
+  fis4 gis4.:m fis8 s4 |
+  e4 h4/fis fis4 |
+  h2 fis4/ais |
+  h4 s8 cis4:m7 |
+  h8/dis s8 e4. |
+  gis4.:m cis8/eis s8 |
+  fis4. h4/dis |
+  e4 s8 cis4:m7 |
+  fis8 s8 gis4.:m fis4. |
+  e8 s8 h4/fis fis8 s8 |
+  h4. s8 h4/dis |
   \bar "|."
 }
 

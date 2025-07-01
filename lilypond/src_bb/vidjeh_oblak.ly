@@ -28,82 +28,82 @@ aFourR = {}
 }
 
 staffOne = \relative c' {
-  \key g \major
+  \key a \major
   \time 4/4
   %\tempo 4 = 174
   \markMoj
-  r4 g'4 fis8 g8 fis8 c8 ~|
-  c4 g'4 fis8 g8 d8 g,8 ~|
-  g4 g'4 fis8 g8 fis8 a8 ~|
-  a8 g8 fis8 g8 fis8 e8 d8 e8 \bar ":|." | \break
+  r4 a'4 gis8 a8 gis8 d8 ~|
+  d4 a'4 gis8 a8 e8 a,8 ~|
+  a4 a'4 gis8 a8 gis8 h8 ~|
+  h8 a8 gis8 a8 gis8 fis8 e8 fis8 \bar ":|." | \break
   \markMoj
-  r4 g8 g8 fis8 g4 fis8 ~|
-  fis8 g4 a8 ~a8 g4. |
-  r4 d8 h'8 a8 h4 a8 ~|
-  a8 fis4 a8 ~a8 g4. | \break
-  r4 g8 g8 fis8 g4 fis8 ~|
-  fis8 g4 a8 ~a8 g4. |
-  r4 d8 h'8 a8 h4 a8 ~|
-  a8 fis4 a8 ~a8 g4. \bar "||" | \break
+  r4 a8 a8 gis8 a4 gis8 ~|
+  gis8 a4 h8 ~h8 a4. |
+  r4 e8 cis'8 h8 cis4 h8 ~|
+  h8 gis4 h8 ~h8 a4. | \break
+  r4 a8 a8 gis8 a4 gis8 ~|
+  gis8 a4 h8 ~h8 a4. |
+  r4 e8 cis'8 h8 cis4 h8 ~|
+  h8 gis4 h8 ~h8 a4. \bar "||" | \break
   \markMoj
-  r4 r8 g8 g8 g8 fis4 |
-  g2 e2 |
-  g2 d2 |
-  a'2 fis2 (| \break
-  e4 )r8 g8 g8 g8 fis4 |
-  g2 e2 |
-  g2 g2 |
-  a2 a2 ~|
-  a1 \bar "||" | \break
+  r4 r8 a8 a8 a8 gis4 |
+  a2 fis2 |
+  a2 e2 |
+  h'2 gis2 (| \break
+  fis4 )r8 a8 a8 a8 gis4 |
+  a2 fis2 |
+  a2 a2 |
+  h2 h2 ~|
+  h1 \bar "||" | \break
   \bar ".|:" \markMoj
-  r4 g4 fis8 g8 fis8 c8 ~|
-  c4 g'4 fis8 g8 d8 g,8 ~|
-  g4 g'4 fis8 g8 fis8 a8 ~|
-  a8 g8 fis8 g8 fis8 e8 d8 e8 \bar ":|." | \break
-  r4 g8 g8 fis8 g4 d'8 ~|
-  d4 g,8 g8 fis8 g8 d8 g,8 ~|
-  g4 g'8 g8 fis8 g8 fis8 d'8 ~|
-  d8 c8 h8 c8 h8 a8 h8 d,8 | \break
-  e4 g4 fis8 g8 fis8 c8 ~|
-  c4 g'4 fis8 g8 d8 g,8 ~|
-  g4 g'4 fis8 g8 fis8 a8 ~|
-  a8 g8 fis8 g8 fis8 e8 d8 e8 |
+  r4 a4 gis8 a8 gis8 d8 ~|
+  d4 a'4 gis8 a8 e8 a,8 ~|
+  a4 a'4 gis8 a8 gis8 h8 ~|
+  h8 a8 gis8 a8 gis8 fis8 e8 fis8 \bar ":|." | \break
+  r4 a8 a8 gis8 a4 e'8 ~|
+  e4 a,8 a8 gis8 a8 e8 a,8 ~|
+  a4 a'8 a8 gis8 a8 gis8 e'8 ~|
+  e8 d8 cis8 d8 cis8 h8 cis8 e,8 | \break
+  fis4 a4 gis8 a8 gis8 d8 ~|
+  d4 a'4 gis8 a8 e8 a,8 ~|
+  a4 a'4 gis8 a8 gis8 h8 ~|
+  h8 a8 gis8 a8 gis8 fis8 e8 fis8 |
 }
 
 harmonyOne = \chordmode  {
-  e1:m |
-  c1 |
-  g1 |
+  fis1:m |
   d1 |
-  e1:m |
-  s2 c2 |
-  g1 |
+  a1 |
+  e1 |
+  fis1:m |
+  s2 d2 |
+  a1 |
+  e1 |
+  fis1:m |
+  s2 d2 |
+  a1 |
+  e1 |
   d1 |
-  e1:m |
-  s2 c2 |
-  g1 |
+  fis1:m |
+  a1 |
+  e1 |
   d1 |
-  c1 |
-  e1:m |
-  g1 |
-  d1 |
-  c1 |
-  e1:m |
-  g1 |
-  d1 |
+  fis1:m |
+  a1 |
+  e1 |
   s1 |
-  e1:m |
-  c1 |
-  g1 |
+  fis1:m |
   d1 |
-  e1:m |
-  c1 |
-  g1 |
+  a1 |
+  e1 |
+  fis1:m |
   d1 |
-  e1:m |
-  c1 |
-  g1 |
+  a1 |
+  e1 |
+  fis1:m |
   d1 |
+  a1 |
+  e1 |
   \bar "|."
 }
 

@@ -1,0 +1,1013 @@
+convert_musescore_to_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/bog_je_moja_snaga.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 1 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx']
+convert_musescore_to_lilypond: [94m2[0m, [1m[92mime_isus[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/ime_isus.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 2 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx']
+convert_musescore_to_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/pastir_moje_duse.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 3 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx']
+convert_musescore_to_lilypond: [94m4[0m, [1m[92mpoziv[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/poziv.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 4 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx']
+convert_musescore_to_lilypond: [94m5[0m, [1m[92mpsalam_42[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/psalam_42.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 5 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx']
+convert_musescore_to_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/to_dade_bog.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 6 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx']
+convert_musescore_to_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 7 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx']
+convert_musescore_to_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/u_duhu_budite_gorljivi.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 8 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx']
+convert_musescore_to_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_c/vidjeh_oblak.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 9 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx']
+generate_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/bog_je_moja_snaga.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/bog_je_moja_snaga.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `bog_je_moja_snaga.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/bog_je_moja_snaga.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `bog_je_moja_snaga.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m2[0m, [1m[92mime_isus[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/ime_isus.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/ime_isus.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `ime_isus.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/ime_isus.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `ime_isus.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/pastir_moje_duse.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/pastir_moje_duse.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `pastir_moje_duse.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/pastir_moje_duse.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `pastir_moje_duse.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m4[0m, [1m[92mpoziv[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/poziv.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/poziv.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `poziv.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/poziv.ly'", 'Parsing...', 'Interpreting music...[8]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `poziv.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m5[0m, [1m[92mpsalam_42[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/psalam_42.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/psalam_42.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `psalam_42.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/psalam_42.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `psalam_42.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/to_dade_bog.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/to_dade_bog.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `to_dade_bog.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/to_dade_bog.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `to_dade_bog.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly'\r"
+STD: 'Parsing...\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:94:1: error: not a note name: lyricOneZero\r'
+STD: '\r'
+STD: 'lyricOneZero = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:94:14: error: syntax error, unexpected '='\r"
+STD: 'lyricOneZero \r'
+STD: '             = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:113:1: error: not a note name: alignerOneOne\r'
+STD: '\r'
+STD: 'alignerOneOne = \\relative {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:113:15: error: syntax error, unexpected '='\r"
+STD: 'alignerOneOne \r'
+STD: '              = \\relative {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:132:1: error: not a note name: lyricOneOne\r'
+STD: '\r'
+STD: 'lyricOneOne = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:132:13: error: syntax error, unexpected '='\r"
+STD: 'lyricOneOne \r'
+STD: '            = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:151:1: error: syntax error, unexpected \\score\r'
+STD: '\r'
+STD: '\\score {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:157:45: error: unknown escaped string: `\\alignerOneZero'\r"
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:157:45: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:158:50: error: unknown escaped string: `\\lyricOneZero'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneZero" { \r'
+STD: '                                                 \\lyricOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:159:44: error: unknown escaped string: `\\alignerOneOne'\r"
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:159:44: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:160:49: error: unknown escaped string: `\\lyricOneOne'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneOne" { \r'
+STD: '                                                \\lyricOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:166:1: error: markup outside of text script or \\lyricmode\r'
+STD: '\r'
+STD: '\\markup {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:172:1: error: syntax error, unexpected end of input\r'
+STD: '\r'
+STD: '}\r'
+STD: 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly"\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly'", 'Parsing...', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:94:1: error: not a note name: lyricOneZero', '', 'lyricOneZero = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:94:14: error: syntax error, unexpected '='", 'lyricOneZero', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:113:1: error: not a note name: alignerOneOne', '', 'alignerOneOne = \\relative {', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:113:15: error: syntax error, unexpected '='", 'alignerOneOne', '= \\relative {', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:132:1: error: not a note name: lyricOneOne', '', 'lyricOneOne = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:132:13: error: syntax error, unexpected '='", 'lyricOneOne', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:151:1: error: syntax error, unexpected \\score', '', '\\score {', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:157:45: error: unknown escaped string: `\\alignerOneZero'", '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:157:45: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:158:50: error: unknown escaped string: `\\lyricOneZero'", '\\new Lyrics \\lyricsto "alignerOneZero" {', '\\lyricOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:159:44: error: unknown escaped string: `\\alignerOneOne'", '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:159:44: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:160:49: error: unknown escaped string: `\\lyricOneOne'", '\\new Lyrics \\lyricsto "alignerOneOne" {', '\\lyricOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:166:1: error: markup outside of text script or \\lyricmode', '', '\\markup {', '/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly:172:1: error: syntax error, unexpected end of input', '', '}', 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly"']
+generate_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/u_duhu_budite_gorljivi.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/u_duhu_budite_gorljivi.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `u_duhu_budite_gorljivi.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/u_duhu_budite_gorljivi.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `u_duhu_budite_gorljivi.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m, [95mtransposition: C[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/vidjeh_oblak.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/vidjeh_oblak.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `vidjeh_oblak.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_c'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_c/vidjeh_oblak.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `vidjeh_oblak.pdf'...", 'Success: compilation successfully completed']
+convert_musescore_to_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/bog_je_moja_snaga.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/bog_je_moja_snaga.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 1 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/bog_je_moja_snaga.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/bog_je_moja_snaga.mscx']
+convert_musescore_to_lilypond: [94m2[0m, [1m[92mime_isus[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/ime_isus.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/ime_isus.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 2 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/ime_isus.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/ime_isus.mscx']
+convert_musescore_to_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/pastir_moje_duse.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/pastir_moje_duse.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 3 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/pastir_moje_duse.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/pastir_moje_duse.mscx']
+convert_musescore_to_lilypond: [94m4[0m, [1m[92mpoziv[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/poziv.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/poziv.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 4 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/poziv.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/poziv.mscx']
+convert_musescore_to_lilypond: [94m5[0m, [1m[92mpsalam_42[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/psalam_42.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/psalam_42.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 5 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/psalam_42.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/psalam_42.mscx']
+convert_musescore_to_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/to_dade_bog.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/to_dade_bog.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 6 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/to_dade_bog.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/to_dade_bog.mscx']
+convert_musescore_to_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/tvoje_nebo.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 7 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/tvoje_nebo.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/tvoje_nebo.mscx']
+convert_musescore_to_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/u_duhu_budite_gorljivi.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/u_duhu_budite_gorljivi.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 8 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/u_duhu_budite_gorljivi.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/u_duhu_budite_gorljivi.mscx']
+convert_musescore_to_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_bb/vidjeh_oblak.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bb/vidjeh_oblak.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 9 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_bb/vidjeh_oblak.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_bb/vidjeh_oblak.mscx']
+generate_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/bog_je_moja_snaga.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/bog_je_moja_snaga.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `bog_je_moja_snaga.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/bog_je_moja_snaga.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `bog_je_moja_snaga.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m2[0m, [1m[92mime_isus[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/ime_isus.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/ime_isus.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `ime_isus.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/ime_isus.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `ime_isus.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/pastir_moje_duse.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/pastir_moje_duse.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `pastir_moje_duse.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/pastir_moje_duse.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `pastir_moje_duse.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m4[0m, [1m[92mpoziv[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/poziv.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/poziv.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `poziv.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/poziv.ly'", 'Parsing...', 'Interpreting music...[8]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `poziv.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m5[0m, [1m[92mpsalam_42[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/psalam_42.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/psalam_42.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `psalam_42.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/psalam_42.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `psalam_42.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/to_dade_bog.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/to_dade_bog.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `to_dade_bog.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/to_dade_bog.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `to_dade_bog.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly'\r"
+STD: 'Parsing...\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:95:1: error: not a note name: lyricOneZero\r'
+STD: '\r'
+STD: 'lyricOneZero = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:95:14: error: syntax error, unexpected '='\r"
+STD: 'lyricOneZero \r'
+STD: '             = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:114:1: error: not a note name: alignerOneOne\r'
+STD: '\r'
+STD: 'alignerOneOne = \\relative {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:114:15: error: syntax error, unexpected '='\r"
+STD: 'alignerOneOne \r'
+STD: '              = \\relative {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:133:1: error: not a note name: lyricOneOne\r'
+STD: '\r'
+STD: 'lyricOneOne = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:133:13: error: syntax error, unexpected '='\r"
+STD: 'lyricOneOne \r'
+STD: '            = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:152:1: error: syntax error, unexpected \\score\r'
+STD: '\r'
+STD: '\\score {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:158:45: error: unknown escaped string: `\\alignerOneZero'\r"
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:158:45: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:159:50: error: unknown escaped string: `\\lyricOneZero'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneZero" { \r'
+STD: '                                                 \\lyricOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:160:44: error: unknown escaped string: `\\alignerOneOne'\r"
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:160:44: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:161:49: error: unknown escaped string: `\\lyricOneOne'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneOne" { \r'
+STD: '                                                \\lyricOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:167:1: error: markup outside of text script or \\lyricmode\r'
+STD: '\r'
+STD: '\\markup {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:173:1: error: syntax error, unexpected end of input\r'
+STD: '\r'
+STD: '}\r'
+STD: 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly"\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly'", 'Parsing...', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:95:1: error: not a note name: lyricOneZero', '', 'lyricOneZero = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:95:14: error: syntax error, unexpected '='", 'lyricOneZero', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:114:1: error: not a note name: alignerOneOne', '', 'alignerOneOne = \\relative {', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:114:15: error: syntax error, unexpected '='", 'alignerOneOne', '= \\relative {', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:133:1: error: not a note name: lyricOneOne', '', 'lyricOneOne = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:133:13: error: syntax error, unexpected '='", 'lyricOneOne', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:152:1: error: syntax error, unexpected \\score', '', '\\score {', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:158:45: error: unknown escaped string: `\\alignerOneZero'", '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:158:45: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:159:50: error: unknown escaped string: `\\lyricOneZero'", '\\new Lyrics \\lyricsto "alignerOneZero" {', '\\lyricOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:160:44: error: unknown escaped string: `\\alignerOneOne'", '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:160:44: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:161:49: error: unknown escaped string: `\\lyricOneOne'", '\\new Lyrics \\lyricsto "alignerOneOne" {', '\\lyricOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:167:1: error: markup outside of text script or \\lyricmode', '', '\\markup {', '/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly:173:1: error: syntax error, unexpected end of input', '', '}', 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly"']
+generate_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/u_duhu_budite_gorljivi.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/u_duhu_budite_gorljivi.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `u_duhu_budite_gorljivi.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/u_duhu_budite_gorljivi.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `u_duhu_budite_gorljivi.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m, [95mtransposition: Bb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/vidjeh_oblak.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/vidjeh_oblak.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `vidjeh_oblak.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bb/vidjeh_oblak.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `vidjeh_oblak.pdf'...", 'Success: compilation successfully completed']
+convert_musescore_to_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/bog_je_moja_snaga.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/bog_je_moja_snaga.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 1 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/bog_je_moja_snaga.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/bog_je_moja_snaga.mscx']
+convert_musescore_to_lilypond: [94m2[0m, [1m[92mime_isus[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/ime_isus.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/ime_isus.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 2 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/ime_isus.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/ime_isus.mscx']
+convert_musescore_to_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/pastir_moje_duse.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/pastir_moje_duse.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 3 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/pastir_moje_duse.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/pastir_moje_duse.mscx']
+convert_musescore_to_lilypond: [94m4[0m, [1m[92mpoziv[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/poziv.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/poziv.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 4 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/poziv.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/poziv.mscx']
+convert_musescore_to_lilypond: [94m5[0m, [1m[92mpsalam_42[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/psalam_42.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/psalam_42.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 5 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/psalam_42.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/psalam_42.mscx']
+convert_musescore_to_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/to_dade_bog.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/to_dade_bog.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 6 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/to_dade_bog.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/to_dade_bog.mscx']
+convert_musescore_to_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/tvoje_nebo.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 7 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/tvoje_nebo.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/tvoje_nebo.mscx']
+convert_musescore_to_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/u_duhu_budite_gorljivi.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/u_duhu_budite_gorljivi.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 8 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/u_duhu_budite_gorljivi.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/u_duhu_budite_gorljivi.mscx']
+convert_musescore_to_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_eb/vidjeh_oblak.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_eb/vidjeh_oblak.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 9 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_eb/vidjeh_oblak.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_eb/vidjeh_oblak.mscx']
+generate_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/bog_je_moja_snaga.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/bog_je_moja_snaga.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `bog_je_moja_snaga.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/bog_je_moja_snaga.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `bog_je_moja_snaga.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m2[0m, [1m[92mime_isus[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/ime_isus.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/ime_isus.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `ime_isus.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/ime_isus.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `ime_isus.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/pastir_moje_duse.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/pastir_moje_duse.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `pastir_moje_duse.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/pastir_moje_duse.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `pastir_moje_duse.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m4[0m, [1m[92mpoziv[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/poziv.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/poziv.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `poziv.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/poziv.ly'", 'Parsing...', 'Interpreting music...[8]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `poziv.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m5[0m, [1m[92mpsalam_42[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/psalam_42.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/psalam_42.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `psalam_42.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/psalam_42.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `psalam_42.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/to_dade_bog.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/to_dade_bog.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `to_dade_bog.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/to_dade_bog.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `to_dade_bog.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly'\r"
+STD: 'Parsing...\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:95:1: error: not a note name: lyricOneZero\r'
+STD: '\r'
+STD: 'lyricOneZero = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:95:14: error: syntax error, unexpected '='\r"
+STD: 'lyricOneZero \r'
+STD: '             = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:114:1: error: not a note name: alignerOneOne\r'
+STD: '\r'
+STD: 'alignerOneOne = \\relative {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:114:15: error: syntax error, unexpected '='\r"
+STD: 'alignerOneOne \r'
+STD: '              = \\relative {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:133:1: error: not a note name: lyricOneOne\r'
+STD: '\r'
+STD: 'lyricOneOne = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:133:13: error: syntax error, unexpected '='\r"
+STD: 'lyricOneOne \r'
+STD: '            = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:152:1: error: syntax error, unexpected \\score\r'
+STD: '\r'
+STD: '\\score {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:158:45: error: unknown escaped string: `\\alignerOneZero'\r"
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:158:45: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:159:50: error: unknown escaped string: `\\lyricOneZero'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneZero" { \r'
+STD: '                                                 \\lyricOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:160:44: error: unknown escaped string: `\\alignerOneOne'\r"
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:160:44: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:161:49: error: unknown escaped string: `\\lyricOneOne'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneOne" { \r'
+STD: '                                                \\lyricOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:167:1: error: markup outside of text script or \\lyricmode\r'
+STD: '\r'
+STD: '\\markup {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:173:1: error: syntax error, unexpected end of input\r'
+STD: '\r'
+STD: '}\r'
+STD: 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly"\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly'", 'Parsing...', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:95:1: error: not a note name: lyricOneZero', '', 'lyricOneZero = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:95:14: error: syntax error, unexpected '='", 'lyricOneZero', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:114:1: error: not a note name: alignerOneOne', '', 'alignerOneOne = \\relative {', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:114:15: error: syntax error, unexpected '='", 'alignerOneOne', '= \\relative {', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:133:1: error: not a note name: lyricOneOne', '', 'lyricOneOne = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:133:13: error: syntax error, unexpected '='", 'lyricOneOne', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:152:1: error: syntax error, unexpected \\score', '', '\\score {', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:158:45: error: unknown escaped string: `\\alignerOneZero'", '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:158:45: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:159:50: error: unknown escaped string: `\\lyricOneZero'", '\\new Lyrics \\lyricsto "alignerOneZero" {', '\\lyricOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:160:44: error: unknown escaped string: `\\alignerOneOne'", '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:160:44: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:161:49: error: unknown escaped string: `\\lyricOneOne'", '\\new Lyrics \\lyricsto "alignerOneOne" {', '\\lyricOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:167:1: error: markup outside of text script or \\lyricmode', '', '\\markup {', '/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly:173:1: error: syntax error, unexpected end of input', '', '}', 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly"']
+generate_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/u_duhu_budite_gorljivi.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/u_duhu_budite_gorljivi.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `u_duhu_budite_gorljivi.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/u_duhu_budite_gorljivi.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `u_duhu_budite_gorljivi.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m, [95mtransposition: Eb[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/vidjeh_oblak.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/vidjeh_oblak.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `vidjeh_oblak.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_eb'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_eb/vidjeh_oblak.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `vidjeh_oblak.pdf'...", 'Success: compilation successfully completed']
+convert_musescore_to_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/bog_je_moja_snaga.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 1 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx']
+convert_musescore_to_lilypond: [94m2[0m, [1m[92mime_isus[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/ime_isus.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 2 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx']
+convert_musescore_to_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/pastir_moje_duse.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 3 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx']
+convert_musescore_to_lilypond: [94m4[0m, [1m[92mpoziv[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/poziv.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 4 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx']
+convert_musescore_to_lilypond: [94m5[0m, [1m[92mpsalam_42[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/psalam_42.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 5 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx']
+convert_musescore_to_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/to_dade_bog.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 6 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx']
+convert_musescore_to_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 7 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx']
+convert_musescore_to_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/u_duhu_budite_gorljivi.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 8 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx']
+convert_musescore_to_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bass/vidjeh_oblak.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 9 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx']
+transform_lilypond [1mBass[0m
+CMD: python lilypond_transformer.py transpose-bass ./lilypond/src_c --path-out ./lilypond/src_bass
+STD: 'Transpose to BASS\r'
+RET: L['Transpose to BASS']
+generate_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/bog_je_moja_snaga.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/bog_je_moja_snaga.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `bog_je_moja_snaga.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/bog_je_moja_snaga.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `bog_je_moja_snaga.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m2[0m, [1m[92mime_isus[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/ime_isus.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/ime_isus.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `ime_isus.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/ime_isus.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `ime_isus.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/pastir_moje_duse.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/pastir_moje_duse.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `pastir_moje_duse.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/pastir_moje_duse.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `pastir_moje_duse.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m4[0m, [1m[92mpoziv[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/poziv.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/poziv.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `poziv.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/poziv.ly'", 'Parsing...', 'Interpreting music...[8]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `poziv.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m5[0m, [1m[92mpsalam_42[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/psalam_42.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/psalam_42.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `psalam_42.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/psalam_42.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `psalam_42.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/to_dade_bog.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/to_dade_bog.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `to_dade_bog.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/to_dade_bog.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `to_dade_bog.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly'\r"
+STD: 'Parsing...\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:94:1: error: not a note name: lyricOneZero\r'
+STD: '\r'
+STD: 'lyricOneZero = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:94:14: error: syntax error, unexpected '='\r"
+STD: 'lyricOneZero \r'
+STD: '             = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:113:1: error: not a note name: alignerOneOne\r'
+STD: '\r'
+STD: 'alignerOneOne = \\relative {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:113:15: error: syntax error, unexpected '='\r"
+STD: 'alignerOneOne \r'
+STD: '              = \\relative {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:132:1: error: not a note name: lyricOneOne\r'
+STD: '\r'
+STD: 'lyricOneOne = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:132:13: error: syntax error, unexpected '='\r"
+STD: 'lyricOneOne \r'
+STD: '            = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:151:1: error: syntax error, unexpected \\score\r'
+STD: '\r'
+STD: '\\score {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:157:45: error: unknown escaped string: `\\alignerOneZero'\r"
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:157:45: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:158:50: error: unknown escaped string: `\\lyricOneZero'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneZero" { \r'
+STD: '                                                 \\lyricOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:159:44: error: unknown escaped string: `\\alignerOneOne'\r"
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:159:44: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:160:49: error: unknown escaped string: `\\lyricOneOne'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneOne" { \r'
+STD: '                                                \\lyricOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:166:1: error: markup outside of text script or \\lyricmode\r'
+STD: '\r'
+STD: '\\markup {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:172:1: error: syntax error, unexpected end of input\r'
+STD: '\r'
+STD: '}\r'
+STD: 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly"\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly'", 'Parsing...', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:94:1: error: not a note name: lyricOneZero', '', 'lyricOneZero = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:94:14: error: syntax error, unexpected '='", 'lyricOneZero', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:113:1: error: not a note name: alignerOneOne', '', 'alignerOneOne = \\relative {', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:113:15: error: syntax error, unexpected '='", 'alignerOneOne', '= \\relative {', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:132:1: error: not a note name: lyricOneOne', '', 'lyricOneOne = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:132:13: error: syntax error, unexpected '='", 'lyricOneOne', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:151:1: error: syntax error, unexpected \\score', '', '\\score {', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:157:45: error: unknown escaped string: `\\alignerOneZero'", '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:157:45: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:158:50: error: unknown escaped string: `\\lyricOneZero'", '\\new Lyrics \\lyricsto "alignerOneZero" {', '\\lyricOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:159:44: error: unknown escaped string: `\\alignerOneOne'", '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:159:44: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:160:49: error: unknown escaped string: `\\lyricOneOne'", '\\new Lyrics \\lyricsto "alignerOneOne" {', '\\lyricOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:166:1: error: markup outside of text script or \\lyricmode', '', '\\markup {', '/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly:172:1: error: syntax error, unexpected end of input', '', '}', 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly"']
+generate_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/u_duhu_budite_gorljivi.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/u_duhu_budite_gorljivi.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `u_duhu_budite_gorljivi.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/u_duhu_budite_gorljivi.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `u_duhu_budite_gorljivi.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m, [95mtransposition: Bass[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/vidjeh_oblak.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/vidjeh_oblak.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `vidjeh_oblak.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bass'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bass/vidjeh_oblak.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `vidjeh_oblak.pdf'...", 'Success: compilation successfully completed']
+convert_musescore_to_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/bog_je_moja_snaga.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 1 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/bog_je_moja_snaga.mscx']
+convert_musescore_to_lilypond: [94m2[0m, [1m[92mime_isus[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/ime_isus.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 2 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/ime_isus.mscx']
+convert_musescore_to_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/pastir_moje_duse.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 3 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/pastir_moje_duse.mscx']
+convert_musescore_to_lilypond: [94m4[0m, [1m[92mpoziv[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/poziv.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 4 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/poziv.mscx']
+convert_musescore_to_lilypond: [94m5[0m, [1m[92mpsalam_42[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/psalam_42.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 5 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/psalam_42.mscx']
+convert_musescore_to_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/to_dade_bog.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 6 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/to_dade_bog.mscx']
+convert_musescore_to_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 7 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/tvoje_nebo.mscx']
+convert_musescore_to_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/u_duhu_budite_gorljivi.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 8 --left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/u_duhu_budite_gorljivi.mscx']
+convert_musescore_to_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m
+CMD: python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx --ly-output /home/schef/git/farmfest_2025/lilypond/src_bto/vidjeh_oblak.ly --lilypond-version 2.24.3 --custom-config --ordinal-number 9 --no-left-page --no-point-and-click --comment-tempo
+STD: 'Working on /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx\r'
+RET: L['Working on /home/schef/git/farmfest_2025/musescore/src_c/vidjeh_oblak.mscx']
+transform_lilypond [1mBassTonesOnly[0m
+CMD: python lilypond_transformer.py bass-tones-only ./lilypond/src_c --path-out ./lilypond/src_bto
+STD: 'Bass tones only harmony\r'
+RET: L['Bass tones only harmony']
+generate_lilypond: [94m1[0m, [1m[92mbog_je_moja_snaga[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/bog_je_moja_snaga.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/bog_je_moja_snaga.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `bog_je_moja_snaga.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/bog_je_moja_snaga.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `bog_je_moja_snaga.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m2[0m, [1m[92mime_isus[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/ime_isus.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/ime_isus.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `ime_isus.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/ime_isus.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `ime_isus.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m3[0m, [1m[92mpastir_moje_duse[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/pastir_moje_duse.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/pastir_moje_duse.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `pastir_moje_duse.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/pastir_moje_duse.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `pastir_moje_duse.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m4[0m, [1m[92mpoziv[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/poziv.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/poziv.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `poziv.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/poziv.ly'", 'Parsing...', 'Interpreting music...[8]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `poziv.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m5[0m, [1m[92mpsalam_42[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/psalam_42.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/psalam_42.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `psalam_42.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/psalam_42.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `psalam_42.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m6[0m, [1m[92mto_dade_bog[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/to_dade_bog.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/to_dade_bog.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `to_dade_bog.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/to_dade_bog.ly'", 'Parsing...', 'Interpreting music...[8][16]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `to_dade_bog.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m7[0m, [1m[92mtvoje_nebo[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly'\r"
+STD: 'Parsing...\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:94:1: error: not a note name: lyricOneZero\r'
+STD: '\r'
+STD: 'lyricOneZero = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:94:14: error: syntax error, unexpected '='\r"
+STD: 'lyricOneZero \r'
+STD: '             = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:113:1: error: not a note name: alignerOneOne\r'
+STD: '\r'
+STD: 'alignerOneOne = \\relative {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:113:15: error: syntax error, unexpected '='\r"
+STD: 'alignerOneOne \r'
+STD: '              = \\relative {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:132:1: error: not a note name: lyricOneOne\r'
+STD: '\r'
+STD: 'lyricOneOne = \\lyricmode {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:132:13: error: syntax error, unexpected '='\r"
+STD: 'lyricOneOne \r'
+STD: '            = \\lyricmode {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:151:1: error: syntax error, unexpected \\score\r'
+STD: '\r'
+STD: '\\score {\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:157:45: error: unknown escaped string: `\\alignerOneZero'\r"
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:157:45: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneZero" { \r'
+STD: '                                            \\alignerOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:158:50: error: unknown escaped string: `\\lyricOneZero'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneZero" { \r'
+STD: '                                                 \\lyricOneZero }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:159:44: error: unknown escaped string: `\\alignerOneOne'\r"
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:159:44: error: string outside of text script or \\lyricmode\r'
+STD: '        \\new NullVoice = "alignerOneOne" { \r'
+STD: '                                           \\alignerOneOne }\r'
+STD: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:160:49: error: unknown escaped string: `\\lyricOneOne'\r"
+STD: '        \\new Lyrics \\lyricsto "alignerOneOne" { \r'
+STD: '                                                \\lyricOneOne }\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:166:1: error: markup outside of text script or \\lyricmode\r'
+STD: '\r'
+STD: '\\markup {\r'
+STD: '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:172:1: error: syntax error, unexpected end of input\r'
+STD: '\r'
+STD: '}\r'
+STD: 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly"\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly'", 'Parsing...', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:94:1: error: not a note name: lyricOneZero', '', 'lyricOneZero = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:94:14: error: syntax error, unexpected '='", 'lyricOneZero', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:113:1: error: not a note name: alignerOneOne', '', 'alignerOneOne = \\relative {', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:113:15: error: syntax error, unexpected '='", 'alignerOneOne', '= \\relative {', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:132:1: error: not a note name: lyricOneOne', '', 'lyricOneOne = \\lyricmode {', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:132:13: error: syntax error, unexpected '='", 'lyricOneOne', '= \\lyricmode {', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:151:1: error: syntax error, unexpected \\score', '', '\\score {', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:157:45: error: unknown escaped string: `\\alignerOneZero'", '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:157:45: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneZero" {', '\\alignerOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:158:50: error: unknown escaped string: `\\lyricOneZero'", '\\new Lyrics \\lyricsto "alignerOneZero" {', '\\lyricOneZero }', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:159:44: error: unknown escaped string: `\\alignerOneOne'", '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:159:44: error: string outside of text script or \\lyricmode', '\\new NullVoice = "alignerOneOne" {', '\\alignerOneOne }', "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:160:49: error: unknown escaped string: `\\lyricOneOne'", '\\new Lyrics \\lyricsto "alignerOneOne" {', '\\lyricOneOne }', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:166:1: error: markup outside of text script or \\lyricmode', '', '\\markup {', '/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly:172:1: error: syntax error, unexpected end of input', '', '}', 'fatal error: failed files: "/home/schef/git/farmfest_2025/lilypond/src_bto/tvoje_nebo.ly"']
+generate_lilypond: [94m8[0m, [1m[92mu_duhu_budite_gorljivi[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/u_duhu_budite_gorljivi.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/u_duhu_budite_gorljivi.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 page...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `u_duhu_budite_gorljivi.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/u_duhu_budite_gorljivi.ly'", 'Parsing...', 'Interpreting music...[8][16][24]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 page...', 'Drawing systems...', "Converting to `u_duhu_budite_gorljivi.pdf'...", 'Success: compilation successfully completed']
+generate_lilypond: [94m9[0m, [1m[92mvidjeh_oblak[0m, [95mtransposition: BassTonesOnly[0m
+CMD: lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/vidjeh_oblak.ly
+STD: 'GNU LilyPond 2.24.4 (running Guile 3.0)\r'
+STD: "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'\r"
+STD: "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/vidjeh_oblak.ly'\r"
+STD: 'Parsing...\r'
+STD: 'Interpreting music...[8][16][24][32]\r'
+STD: 'Preprocessing graphical objects...\r'
+STD: 'Finding the ideal number of pages...\r'
+STD: 'Fitting music on 1 or 2 pages...\r'
+STD: 'Drawing systems...\r'
+STD: "Converting to `vidjeh_oblak.pdf'...\r"
+STD: 'Success: compilation successfully completed\r'
+RET: L['GNU LilyPond 2.24.4 (running Guile 3.0)', "Changing working directory to: `/home/schef/git/farmfest_2025/lilypond/bin_bto'", "Processing `/home/schef/git/farmfest_2025/lilypond/src_bto/vidjeh_oblak.ly'", 'Parsing...', 'Interpreting music...[8][16][24][32]', 'Preprocessing graphical objects...', 'Finding the ideal number of pages...', 'Fitting music on 1 or 2 pages...', 'Drawing systems...', "Converting to `vidjeh_oblak.pdf'...", 'Success: compilation successfully completed']

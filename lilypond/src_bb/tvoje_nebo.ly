@@ -29,46 +29,47 @@ aFourR = {}
 }
 
 staffOne = \relative c' {
+  \key d \major
   \time 4/4
   %\tempo 4 = 114
   \clef treble
   \markMoj
-  r8 a'8 a8 g8 a8 g8 a8 g8 ~|
-  g8 d8 ~d4 r2 |
-  r8 a'8 a8 g8 a8 a8 g8 g8 (~|
-  g16 a16 h8 ~h4 )r2 |
-  r8 a8 a8 g8 a8 g8 a8 g8 ~|
-  g8 d8 ~d4 r2 |
-  r8 f8 f8 e8 f8 e8 f8 d8 ~|
-  d2 r2 \bar "||" | \break
+  r8 h'8 h8 a8 h8 a8 h8 a8 ~|
+  a8 e8 ~e4 r2 |
+  r8 h'8 h8 a8 h8 h8 a8 a8 (~|
+  a16 h16 cis8 ~cis4 )r2 |
+  r8 h8 h8 a8 h8 a8 h8 a8 ~|
+  a8 e8 ~e4 r2 |
+  r8 g8 g8 fis8 g8 fis8 g8 e8 ~|
+  e2 r2 \bar "||" | \break
   \markMoj
-  r4 c'8 h8 c8 h8 c8 c8 (~|
-  c8 d8 ~d4 )r2 |
-  r4 e8 d8 e8 d8 e8 e8 (~|
-  e8 f8 ~f4 )r8 e4 f8 |
-  g2 \tuplet 3/2 { g4 f4 e4 } |
-  d2 e4. h8 |
-  d8 c8 (~c4 ~c8 h8 c8 h8 |
-  c1 )\bar "|." |
+  r4 d'8 cis8 d8 cis8 d8 d8 (~|
+  d8 e8 ~e4 )r2 |
+  r4 fis8 e8 fis8 e8 fis8 fis8 (~|
+  fis8 g8 ~g4 )r8 fis4 g8 |
+  a2 \tuplet 3/2 { a4 g4 fis4 } |
+  e2 fis4. cis8 |
+  e8 d8 (~d4 ~d8 cis8 d8 cis8 |
+  d1 )\bar "|." |
 }
 
 harmonyOne = \chordmode  {
-  d1:m7 |
-  g1:7 |
-  d1:m7 |
-  g1:7 |
-  d1:m7 |
-  g1:7 |
-  d1:m7 |
+  e1:m7 |
+  a1:7 |
+  e1:m7 |
+  a1:7 |
+  e1:m7 |
+  a1:7 |
+  e1:m7 |
+  a1 |
+  d1 |
+  a1 |
+  h1:m |
   g1 |
-  c1 |
+  d1 |
+  a2 fis2:7 |
+  h1:m |
   g1 |
-  a1:m |
-  f1 |
-  c1 |
-  g2 e2:7 |
-  a1:m |
-  f1 |
   \bar "|."
 }
 
@@ -84,7 +85,7 @@ alignerOneZero = \relative {
   r4 c8 c8 c8 c8 c8 c8( |
   c8 c8 c4) r2 |
   r4 c8 c8 c8 c8 c8 c8( |
-  c8 c8 c4) r8 c4 c8 |
+  c8 c8 c4) r8 c4 c8} |
   c2 \tuplet 3/2 {c4 c4 c4 |
   c2 c4. c8 |
   c8 c8( c4 c8 c8 c8 c8 |
