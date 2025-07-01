@@ -134,16 +134,13 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <KeySig>
-            <accidental>3</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <root>19</root>
+            <root>16</root>
             <name>m7</name>
             </Harmony>
           <RehearsalMark>
@@ -173,8 +170,8 @@
               <text>Tvo</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -190,8 +187,8 @@
               <text>ja</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -206,8 +203,8 @@
               <text>me</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -226,8 +223,8 @@
               <text>lju</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -243,8 +240,8 @@
               <text>bav</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -260,8 +257,8 @@
               <text>u</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -287,8 +284,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -296,7 +293,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>15</root>
             <name>7</name>
             </Harmony>
           <Beam>
@@ -314,8 +311,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -344,8 +341,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -359,8 +356,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -371,7 +368,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
+            <root>16</root>
             <name>m7</name>
             </Harmony>
           <Rest>
@@ -392,8 +389,8 @@
               <text>ko</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -409,8 +406,8 @@
               <text>ro</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -425,8 +422,8 @@
               <text>sa</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -444,8 +441,8 @@
               <text>mi</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -461,8 +458,8 @@
               <text>ri</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -478,8 +475,8 @@
               <text>sni</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -518,8 +515,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -527,7 +524,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>15</root>
             <name>7</name>
             </Harmony>
           <Chord>
@@ -542,15 +539,15 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -565,8 +562,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -588,8 +585,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -600,7 +597,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
+            <root>16</root>
             <name>m7</name>
             </Harmony>
           <Rest>
@@ -620,8 +617,8 @@
               <text>sve</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -637,8 +634,8 @@
               <text>mo</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -654,8 +651,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -674,8 +671,8 @@
               <text>s to</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -691,8 +688,8 @@
               <text>bom</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -707,8 +704,8 @@
               <text>pre</text>
               </Lyrics>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -736,8 +733,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -745,7 +742,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>15</root>
             <name>7</name>
             </Harmony>
           <Beam>
@@ -763,8 +760,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -792,8 +789,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -807,8 +804,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -819,7 +816,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
+            <root>16</root>
             <name>m7</name>
             </Harmony>
           <Rest>
@@ -839,8 +836,8 @@
               <text>_</text>
               </Lyrics>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -855,8 +852,8 @@
               <text>ti</text>
               </Lyrics>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -871,8 +868,8 @@
               <text>si</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -891,8 +888,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -908,8 +905,8 @@
               <text>di</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -925,8 +922,8 @@
               <text>ni</text>
               </Lyrics>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -955,8 +952,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -967,7 +964,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -981,8 +978,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -996,7 +993,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
+            <root>14</root>
             </Harmony>
           <RehearsalMark>
             <size>10</size>
@@ -1015,8 +1012,8 @@
               <text>Još</text>
               </Lyrics>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1026,8 +1023,8 @@
               <text>te</text>
               </Lyrics>
             <Note>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -1041,8 +1038,8 @@
               <text>o</text>
               </Lyrics>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1053,8 +1050,8 @@
               <text>sje</text>
               </Lyrics>
             <Note>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1065,8 +1062,8 @@
               <text>čam</text>
               </Lyrics>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1098,8 +1095,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1107,7 +1104,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>15</root>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1124,8 +1121,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1141,8 +1138,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1164,8 +1161,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1176,7 +1173,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>20</root>
+            <root>17</root>
             <name>m</name>
             </Harmony>
           <Rest>
@@ -1192,8 +1189,8 @@
               <text>Ko</text>
               </Lyrics>
             <Note>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1203,8 +1200,8 @@
               <text>da</text>
               </Lyrics>
             <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -1218,8 +1215,8 @@
               <text>ho</text>
               </Lyrics>
             <Note>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1230,8 +1227,8 @@
               <text>dam</text>
               </Lyrics>
             <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1241,8 +1238,8 @@
               <text>po</text>
               </Lyrics>
             <Note>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1274,8 +1271,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1283,7 +1280,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>16</root>
+            <root>13</root>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1300,8 +1297,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1317,8 +1314,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>86</pitch>
-              <tpc>16</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1340,8 +1337,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>86</pitch>
-              <tpc>16</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -1355,8 +1352,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1368,8 +1365,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>86</pitch>
-              <tpc>16</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1377,7 +1374,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1388,8 +1385,8 @@
               <text>no</text>
               </Lyrics>
             <Note>
-              <pitch>88</pitch>
-              <tpc>18</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Tuplet>
@@ -1408,8 +1405,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>88</pitch>
-              <tpc>18</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1420,8 +1417,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>86</pitch>
-              <tpc>16</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1432,8 +1429,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -1442,7 +1439,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1452,12 +1449,12 @@
               <text>ma</text>
               </Lyrics>
             <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Harmony>
-            <root>21</root>
+            <root>18</root>
             <name>7</name>
             </Harmony>
           <Chord>
@@ -1470,8 +1467,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>85</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1483,8 +1480,8 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1492,7 +1489,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>20</root>
+            <root>17</root>
             <name>m</name>
             </Harmony>
           <Beam>
@@ -1506,8 +1503,8 @@
               <text>ne</text>
               </Lyrics>
             <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1539,8 +1536,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1563,8 +1560,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -1581,32 +1578,32 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1614,7 +1611,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>16</root>
+            <root>13</root>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1628,8 +1625,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <BarLine>
