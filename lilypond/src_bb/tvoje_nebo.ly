@@ -85,8 +85,8 @@ alignerOneZero = \relative {
   r4 c8 c8 c8 c8 c8 c8( |
   c8 c8 c4) r2 |
   r4 c8 c8 c8 c8 c8 c8( |
-  c8 c8 c4) r8 c4 c8} |
-  c2 \tuplet 3/2 {c4 c4 c4 |
+  c8 c8 c4) r8 c4 c8 |
+  c2 \tuplet 3/2 {c4 c4 c4} |
   c2 c4. c8 |
   c8 c8( c4 c8 c8 c8 c8 |
   c1) |
