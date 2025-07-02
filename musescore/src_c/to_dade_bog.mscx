@@ -357,17 +357,17 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>cu</text>
+              <text>cu,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>tac</text>
+              <text>tac.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>sam,</text>
+              <text>sam.</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -394,7 +394,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Po</text>
+              <text>po</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -506,7 +506,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>je</text>
+              <text>je,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -598,17 +598,17 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>sa</text>
+              <text>sa.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>ni</text>
+              <text>ni.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>da</text>
+              <text>da.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -858,12 +858,12 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>ti</text>
+              <text>ti.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>mu</text>
+              <text>mu.</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -914,7 +914,7 @@
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <text>njem’</text>
+              <text>Njem’</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -1072,7 +1072,7 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>ma</text>
+              <text>ma.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1084,7 +1084,7 @@
               <no>2</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -1100,7 +1100,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>Na</text>
+              <text>na</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1309,12 +1309,12 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>vlas</text>
+              <text>vlas.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -1340,7 +1340,7 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>me</text>
+              <text>me.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1499,19 +1499,19 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>ji</text>
+              <text>ji,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>je·</text>
+              <text>je,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -1524,12 +1524,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Sra</text>
+              <text>sra</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Ko</text>
+              <text>ko</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1742,7 +1742,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>nje</text>
+              <text>Nje</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -1768,7 +1768,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ma</text>
+              <text>ma.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1778,7 +1778,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>mu·</text>
+              <text>mu,</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>

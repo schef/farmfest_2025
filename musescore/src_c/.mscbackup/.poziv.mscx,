@@ -114,12 +114,12 @@
         <Text>
           <style>Title</style>
           <offset x="0" y="-0.00824654"/>
-          <text><font size="22"/>Poziv</text>
+          <text><font size="22"></font>Poziv</text>
           </Text>
         <Text>
           <style>Subtitle</style>
           <offset x="0" y="9.99175"/>
-          <text><font size="14"/>Gecemani</text>
+          <text><font size="14"></font>Gecemani</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -148,7 +148,7 @@
             </Harmony>
           <RehearsalMark>
             <size>10</size>
-            <text><font size="14"/><b>A</b></text>
+            <text><font size="14"></font><b>A</b></text>
             </RehearsalMark>
           <Tempo>
             <tempo>1.3333333333333333</tempo>
@@ -1391,7 +1391,7 @@
             </Harmony>
           <RehearsalMark>
             <size>10</size>
-            <text><font size="14"/><b>B</b></text>
+            <text><font size="14"></font><b>B</b></text>
             </RehearsalMark>
           <Rest>
             <durationType>eighth</durationType>

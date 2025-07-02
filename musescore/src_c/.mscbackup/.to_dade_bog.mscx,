@@ -7,7 +7,6 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <bracketDistance>0.1</bracketDistance>
       <minNoteDistance>0</minNoteDistance>
       <barNoteDistance>0.9</barNoteDistance>
       <noteBarDistance>1</noteBarDistance>

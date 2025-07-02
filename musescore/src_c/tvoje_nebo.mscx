@@ -1059,7 +1059,8 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>čam</text>
+              <ticks_f>0/4</ticks_f>
+              <text>ćam</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1186,7 +1187,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Ko</text>
+              <text>K'o</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
