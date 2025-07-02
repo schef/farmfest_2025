@@ -15,7 +15,7 @@ aFourR = {}
   titlex = "Tvoje Nebo"
   composer = "Danko Tomanić"
   style = ""
-  broj = "7"
+  broj = "8"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -100,9 +100,9 @@ lyricOneZero = \lyricmode {
   bih __ %|
   bez te -- be po -- kre -- nu -- o __ %|
   %|
-  Još te o -- sje -- čam tu __ %|
+  Još te o -- sje -- ćam tu __ %|
   %|
-  Ko da ho -- dam po tlu __ %|
+  K'o da ho -- dam po tlu __ %|
   la -- ga -- %|
   no na prs -- ti -- %|
   ma tvo -- je %|

@@ -15,7 +15,7 @@ aFourL = {}
   titlex = "(Es Walte Gott)"
   composer = "Rebecca Watta"
   style = ""
-  broj = "6"
+  broj = "7"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -108,19 +108,19 @@ alignerOneZero = \relative {
 lyricOneZero = \lyricmode {
   To da -- de %|
   Bog u mo -- me %|
-  sr -- cu Po vo -- lji %|
+  sr -- cu, po vo -- lji %|
   Kri -- sta I -- su -- %|
-  sa Dal’ slav -- lje, %|
+  sa. Dal’ slav -- lje, %|
   pi -- ta -- nja il' %|
   su -- ze On dr -- ži %|
   sve u ru -- ka -- %|
-  ma On vje -- čno %|
+  ma. On vje -- čno %|
   ču -- va mo -- je %|
-  i -- me Ni %|
+  i -- me. Ni %|
   dug mi ne bro -- %|
-  ji Sra -- mo -- te %|
+  ji, sra -- mo -- te %|
   mo -- je vi -- še %|
-  ne -- ma Riječ Nje -- go -- %|
+  ne -- ma. Riječ Nje -- go -- %|
   va je do -- volj -- %|
   na. %|
 }
@@ -148,17 +148,17 @@ alignerOneOne = \relative {
 lyricOneOne = \lyricmode {
   To da -- de %|
   Bog, naš do -- bar %|
-  O -- tac On sve -- mo -- %|
-  ćan je je -- di -- %|
-  ni Ne su -- sta -- %|
+  O -- tac. On sve -- mo -- %|
+  ćan je, je -- di -- %|
+  ni. Ne su -- sta -- %|
   je i ne -- će %|
-  pas -- ti I dr -- ži %|
+  pas -- ti. I dr -- ži %|
   što o -- be -- ća -- %|
-  je Na gla -- vi %|
+  je na gla -- vi %|
   bro -- ji sva -- ku %|
-  vlas On put %|
+  vlas. On put %|
   do -- bar po -- zna -- %|
-  je· Ko -- ji kroz %|
+  je, ko -- ji kroz %|
   ta -- mu me -- ne %|
   vo -- di u svo -- je %|
   ru -- ke ši -- ro -- %|
@@ -188,19 +188,19 @@ alignerOneTwo = \relative {
 lyricOneTwo = \lyricmode {
   To da -- de %|
   Bog, sve što ja %|
-  je -- sam, Moj ži -- vot %|
+  je -- sam. Moj ži -- vot %|
   nje -- mu pri -- pa -- %|
-  da Nje -- gov je %|
+  da. Nje -- gov je %|
   svijet i sve na %|
-  nje -- mu Po njem’ do -- %|
+  nje -- mu. Po Njem’ do -- %|
   bi -- va smi -- sa -- %|
-  o Me -- ne je %|
+  o. Me -- ne je %|
   pr -- vi lju -- bi -- %|
-  o Po -- zna -- %|
+  o. Po -- zna -- %|
   o i cije -- ni -- %|
-  o Ži -- vot je %|
+  o. Ži -- vot je %|
   si -- gu -- ran u %|
-  nje -- mu· gdje ne -- iz -- %|
+  Nje -- mu, gdje ne -- iz -- %|
   mjer -- no vrije -- dan %|
   sam. %|
 }

@@ -55,32 +55,33 @@ class Song:
 
 song_list = [
     Song("bog_je_moja_snaga", 1, PageOrientation.Right), #1
+    Song("bez_ljubavi", 2, PageOrientation.Right), #1
 
-    Song("ime_isus", 2, PageOrientation.Left), #1
+    Song("ime_isus", 3, PageOrientation.Left), #1
     # slika
 
-    Song("pastir_moje_duse", 3, PageOrientation.Left), #2
+    Song("pastir_moje_duse", 4, PageOrientation.Left), #2
 
-    Song("poziv", 4, PageOrientation.Left), #1
+    Song("poziv", 5, PageOrientation.Left), #1
     #slika
 
-    Song("psalam_42", 5, PageOrientation.Left), #2
+    Song("psalam_42", 6, PageOrientation.Left), #2
 
-    Song("to_dade_bog", 6, PageOrientation.Left), #1
-    Song("tvoje_nebo", 7, PageOrientation.Right), #1
+    Song("to_dade_bog", 7, PageOrientation.Left), #1
+    Song("tvoje_nebo", 8, PageOrientation.Right), #1
 
-    Song("u_duhu_budite_gorljivi", 8, PageOrientation.Left), #1
+    Song("u_duhu_budite_gorljivi", 9, PageOrientation.Left), #1
     #slika
 
-    Song("vidjeh_oblak", 9, PageOrientation.Right), #2
+    Song("vidjeh_oblak", 10, PageOrientation.Right), #2
 ]
 
 transposition_list = [
     Transposition("C", "./musescore/src_c", "./lilypond/src_c", "./lilypond/bin_c", None),
-    Transposition("Bb", "./musescore/src_bb",  "./lilypond/src_bb", "./lilypond/bin_bb", None),
-    Transposition("Eb", "./musescore/src_eb",  "./lilypond/src_eb", "./lilypond/bin_eb", None),
-    Transposition("Bass", "./musescore/src_c", "./lilypond/src_bass", "./lilypond/bin_bass", "transpose-bass"),
-    Transposition("BassTonesOnly", "./musescore/src_c","./lilypond/src_bto", "./lilypond/bin_bto", "bass-tones-only")
+    #Transposition("Bb", "./musescore/src_bb",  "./lilypond/src_bb", "./lilypond/bin_bb", None),
+    #Transposition("Eb", "./musescore/src_eb",  "./lilypond/src_eb", "./lilypond/bin_eb", None),
+    #Transposition("Bass", "./musescore/src_c", "./lilypond/src_bass", "./lilypond/bin_bass", "transpose-bass"),
+    #Transposition("BassTonesOnly", "./musescore/src_c","./lilypond/src_bto", "./lilypond/bin_bto", "bass-tones-only")
 ]
 
 def run_bash_cmd(cmd, logger=None, interaction={}, return_lines=True, return_code=False, cr_as_newline=False, remove_empty_lines=False):

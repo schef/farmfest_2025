@@ -14,7 +14,7 @@ aFourL = {}
   title = "IME ISUS"
   composer = "Danko Tomanić"
   style = ""
-  broj = "2"
+  broj = "3"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 

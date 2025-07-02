@@ -15,7 +15,7 @@ aFourL = {}
   composer = "Shane & Shane"
   titlex = "Psalm 42 (Loudest Praise)"
   style = ""
-  broj = "5"
+  broj = "6"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 

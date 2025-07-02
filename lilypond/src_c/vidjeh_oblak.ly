@@ -14,7 +14,7 @@ aFourR = {}
   title = "VIDJEH OBLAK"
   composer = "108i"
   style = ""
-  broj = "9"
+  broj = "10"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 

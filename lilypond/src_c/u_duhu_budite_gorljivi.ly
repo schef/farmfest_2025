@@ -14,7 +14,7 @@ aFourL = {}
   title = "U DUHU BUDITE GORLJIVI"
   composer = "Franko Cetinić"
   style = ""
-  broj = "8"
+  broj = "9"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
