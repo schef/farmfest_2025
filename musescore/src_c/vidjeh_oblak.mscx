@@ -109,6 +109,10 @@
           <style>Composer</style>
           <text>108i</text>
           </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Farmfest 2025</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -456,17 +460,17 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Vi</text>
+              <text>1. Vi</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Vi</text>
+              <text>2. Vi</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>Sva</text>
+              <text>3. Sva</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -686,17 +690,17 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>tko.</text>
+              <text>tko,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>no.</text>
+              <text>no,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>sti.</text>
+              <text>sti,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -719,11 +723,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Zlat</text>
+              <text>zlat</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
-              <text>Jer</text>
+              <text>jer</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -745,7 +749,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>Na</text>
+              <text>na</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1208,17 +1212,17 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ži.</text>
+              <text>ži,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text>te.</text>
+              <text>te,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>vi.</text>
+              <text>vi,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1241,17 +1245,17 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Prav</text>
+              <text>prav</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Prav</text>
+              <text>prav</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>Sla</text>
+              <text>sla</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>

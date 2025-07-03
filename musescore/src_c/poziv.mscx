@@ -269,7 +269,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>tvo</text>
+              <text>Tvo</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -308,7 +308,7 @@
             <Lyrics>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
-              <text>tvoj,</text>
+              <text>Tvoj,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -518,7 +518,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>ti</text>
+              <text>Ti</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1006,14 +1006,14 @@
               <syllabic>end</syllabic>
               <ticks>120</ticks>
               <ticks_f>1/16</ticks_f>
-              <text>ka</text>
+              <text>ka,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <ticks>120</ticks>
               <ticks_f>1/16</ticks_f>
-              <text>no</text>
+              <text>no,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">

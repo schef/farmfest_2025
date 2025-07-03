@@ -123,6 +123,10 @@
           <offset x="0" y="17.4895"/>
           <text>Danko Tomanić</text>
           </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Farmfest 2025</text>
+          </Text>
         </VBox>
       <Measure len="1/4">
         <voice>
@@ -236,18 +240,16 @@
               <text>že</text>
               </Lyrics>
             <Lyrics>
-              <no>1</no>
-              <syllabic>end</syllabic>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
-              <text>gom</text>
-              </Lyrics>
-            <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
               <text>je</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>gom</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -398,7 +400,7 @@
               <syllabic>end</syllabic>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
-              <text>že.</text>
+              <text>že,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -449,7 +451,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Sva</text>
+              <text>sva</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -476,6 +478,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>te</text>
               </Lyrics>
             <Note>
@@ -509,7 +512,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>k nje</text>
+              <text>k Nje</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -537,7 +540,7 @@
               <syllabic>end</syllabic>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
-              <text>mu</text>
+              <text>mu,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -657,7 +660,7 @@
               <syllabic>end</syllabic>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
-              <text>že</text>
+              <text>že;</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -758,7 +761,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>nje</text>
+              <text>Nje</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -787,7 +790,7 @@
               <no>2</no>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
-              <text>on</text>
+              <text>On</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -850,7 +853,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>on</text>
+              <text>On</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -896,14 +899,14 @@
               <syllabic>end</syllabic>
               <ticks>960</ticks>
               <ticks_f>4/8</ticks_f>
-              <text>nu</text>
+              <text>nu,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks>960</ticks>
               <ticks_f>4/8</ticks_f>
-              <text>ni,</text>
+              <text>ni.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -982,7 +985,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>haj</text>
+              <text>Haj</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -2003,7 +2006,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
