@@ -12,7 +12,7 @@ aFourL = {}
 
 \header {
   title = "PASTIR MOJE DUŠE"
-  titlex = "Shepherd of my soul"
+  titlex = "Shepherd Of My Soul"
   composer = "Rivers & Robots"
   style = ""
   broj = "4"
@@ -117,29 +117,29 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Vla -- da -- ru pla -- ni -- na %|
-  i mo -- ra %|
+  \set stanza = "1." Vla -- da -- ru pla -- ni -- na %|
+  i mo -- ra, %|
   pri -- pre -- maš put za __ me -- %|
-  ne %|
+  ne. %|
   Bo -- že __ svih raz -- dob -- lja %|
-  i ne -- ba %|
-  U -- vijek __ si ču -- va -- o %|
-  me %|
+  i ne -- ba, %|
+  u -- vijek __ si ču -- va -- o %|
+  me. %|
   Go -- spo -- de, %|
   Ti bu -- di pas -- tir mo -- je %|
-  du -- še %|
-  Pre -- da -- jem ti %|
+  du -- še. %|
+  Pre -- da -- jem Ti %|
   pla -- no -- ve, svo -- ja __ pra -- %|
-  va Pre -- puš -- tam kon -- %|
+  va, pre -- puš -- tam kon -- %|
   tro -- lu pre -- da -- nog ži -- vo -- %|
-  ta __ %|
-  Vje -- ran si tje -- ši -- telj %|
-  I moj iz -- ba -- vi -- telj %|
-  Stije -- na si si -- gur -- na %|
-  U vije -- ke vje -- ko -- va Ti %|
-  Vo -- di me na iz -- vor %|
-  Vo -- di kroz do -- li -- ne %|
-  Vo -- di me u mu -- drost %|
+  ta. __ %|
+  Vje -- ran si tje -- ši -- telj, %|
+  i moj iz -- ba -- vi -- telj. %|
+  Stije -- na si si -- gur -- na, %|
+  u vije -- ke vje -- ko -- va. Ti %|
+  vo -- di me na iz -- vor, %|
+  vo -- di kroz do -- li -- ne, %|
+  vo -- di me u mu -- drost. %|
   Pas -- tir du -- še __ si %|
 }
 
@@ -171,14 +171,14 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  Vje -- ru -- jem o -- no -- me %|
+  \set stanza = "2." Vje -- ru -- jem O -- no -- me %|
   tko zvijez -- de %|
   i sun -- ce stvo -- ri -- o %|
-  je %|
-  Mi -- los -- tiv bes -- kraj -- no %|
+  je. %|
+  Mi -- los -- tiv, bes -- kraj -- no %|
   si, u -- vijek %|
   vje -- ran __ i mu -- dar __ si %|
-  Ti %|
+  Ti. %|
   %|
   %|
   %|

@@ -54,8 +54,8 @@ class Song:
     page_orientation: PageOrientation
 
 song_list = [
-    Song("bog_je_moja_snaga", 1, PageOrientation.Right), #1
-    Song("bez_ljubavi", 2, PageOrientation.Right), #1
+    Song("bez_ljubavi", 1, PageOrientation.Right), #1
+    Song("bog_je_moja_snaga", 2, PageOrientation.Right), #1
 
     Song("ime_isus", 3, PageOrientation.Left), #1
     # slika

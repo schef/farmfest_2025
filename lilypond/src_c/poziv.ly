@@ -81,7 +81,7 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  \set stanza = "1." Kad sam ču -- o po -- ziv tvoj, __ %|
+  \set stanza = "1." Kad sam ču -- o po -- ziv Tvoj, __ %|
   Go -- spo -- de, __ %|
   ne ra -- zmi -- šljah ni mi -- nu -- tu, %|
   ja -- vih se. __ %|
@@ -113,9 +113,9 @@ alignerOneOne = \relative {
 lyricOneOne = \lyricmode {
   \set stanza = "2." Ti mi nu -- diš svo -- ju lju -- bav %|
   da -- ni -- ma, __ %|
-  ti mi nu -- diš svo -- ju lju -- bav %|
+  Ti mi nu -- diš svo -- ju lju -- bav %|
   no -- ći -- ma. __ %|
-  I sve je ka -- o rije -- ka __ %|
+  I sve je ka -- o rije -- ka, __ %|
   du -- bo -- ko __ i vje -- čno, __ %|
   Go -- spo -- de. __ %|
   %|
@@ -141,11 +141,11 @@ alignerOneTwo = \relative {
 }
 
 lyricOneTwo = \lyricmode {
-  \set stanza = "3." Pro -- bo -- li su tvo -- je ve -- ne, %|
+  \set stanza = "3." Pro -- bo -- li su Tvo -- je ve -- ne, %|
   Go -- spo -- de, __ %|
   a u nji -- ma ži -- vot vje -- čni %|
   za me -- ne. __ %|
-  I sve je ta -- ko fi -- no __ %|
+  I sve je ta -- ko fi -- no, __ %|
   ne -- mo -- gu -- će di -- vno, __ %|
   Go -- spo -- de. __ %|
   Ne -- ka sad od -- je -- kne na -- ša %|

@@ -40,7 +40,7 @@ staffOne = \relative c' {
   r8 a8 a8 g8 a8 g8 a8 g8 ~|
   g8 d8 ~d4 r2 |
   r8 f8 f8 e8 f8 e8 f8 d8 ~|
-  d2 r2 \bar "||" | \break
+  d2 r2 \bar ":|." | \break
   \markMoj
   r4 c'8 h8 c8 h8 c8 c8 (~|
   c8 d8 ~d4 )r2 |
@@ -92,21 +92,21 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Sad ru -- ke po -- di -- žem te -- %|
-  bi __ %|
-  te -- bi sam sve pre -- da -- o __ %|
+  Sad ru -- ke po -- di -- žem Te -- %|
+  bi, __ %|
+  Te -- bi sam sve pre -- da -- o, __ %|
   %|
   i svo -- je sto -- pe sad ne -- %|
   bih __ %|
-  bez te -- be po -- kre -- nu -- o __ %|
+  bez te -- be po -- kre -- nu -- o. __ %|
   %|
-  Još te o -- sje -- ćam tu __ %|
+  Još Te o -- sje -- ćam tu, __ %|
   %|
-  K'o da ho -- dam po tlu __ %|
+  ko da ho -- dam po tlu, __ %|
   la -- ga -- %|
-  no na prs -- ti -- %|
-  ma tvo -- je %|
-  ne -- bo __ %|
+  no, na prs -- ti -- %|
+  ma: Tvo -- je %|
+  ne -- bo. __ %|
   %|
 }
 
@@ -117,7 +117,7 @@ alignerOneOne = \relative {
   c16 c16 c8 c4) r2 |
   r8 c8 c8 c8 c8 c8 c8 c8( |
   c8) c8( c4) r2 |
-  r8 c8 c8 c8 c8 c8 c8 c8( |
+  r8 r8 c8 c8 c8 c8 c8 c8( |
   c2) r2 |
   r4 r8 r8 r8 r8 r8 r8 |
   r8 r8 r4 r2 |
@@ -131,12 +131,12 @@ alignerOneOne = \relative {
 
 lyricOneOne = \lyricmode {
   Tvo -- ja me lju -- bav u -- mi -- %|
-  va __ %|
-  ko ro -- sa mi -- ri -- sni cvijet __ %|
+  va, __ %|
+  ko ro -- sa mi -- ri -- sni cvijet. __ %|
   %|
-  sve mo -- je "s to" -- bom pre -- bi __ %|
-  va __ %|
-  _ ti si je -- di -- ni svet __ %|
+  Sve mo -- je "s to" -- bom pre -- bi __ %|
+  va, __ %|
+  Ti si je -- di -- ni svet. __ %|
   %|
   %|
   %|

@@ -12,7 +12,7 @@ aFourL = {}
 
 \header {
   title = "TO DADE BOG"
-  titlex = "(Es Walte Gott)"
+  titlex = "Es Walte Gott"
   composer = "Rebecca Watta"
   style = ""
   broj = "7"
@@ -41,7 +41,7 @@ staffOne = \relative c' {
   e4 cis4 r8 h8 cis8 fis8 |
   \time 3/4
   e8 d8 cis4 h4 |
-  a4. cis8 e8 a8 | \break
+  a4. cis8 e8 a8 |
   \time 5/8
   fis4 e8 e8 d8 |
   \time 4/4
@@ -54,7 +54,7 @@ staffOne = \relative c' {
   cis4 a8 d8 h8 |
   e4 fis4 gis8 |
   a4 gis8 fis8 a8 |
-  gis4 e8 e8 a8 \bar "||" | \break
+  gis4 e8 e8 a8 | \break
   \time 5/8
   fis4 e8 e8 d8 |
   \time 4/4
@@ -106,21 +106,21 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  To da -- de %|
+  \set stanza = "1." To da -- de %|
   Bog u mo -- me %|
   sr -- cu, po vo -- lji %|
   Kri -- sta I -- su -- %|
   sa. Dal’ slav -- lje, %|
   pi -- ta -- nja il' %|
-  su -- ze On dr -- ži %|
+  su -- ze, On dr -- ži %|
   sve u ru -- ka -- %|
   ma. On vje -- čno %|
   ču -- va mo -- je %|
-  i -- me. Ni %|
+  i -- me, ni %|
   dug mi ne bro -- %|
   ji, sra -- mo -- te %|
   mo -- je vi -- še %|
-  ne -- ma. Riječ Nje -- go -- %|
+  ne -- ma, riječ Nje -- go -- %|
   va je do -- volj -- %|
   na. %|
 }
@@ -146,17 +146,17 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  To da -- de %|
+  \set stanza = "2." To da -- de %|
   Bog, naš do -- bar %|
   O -- tac. On sve -- mo -- %|
   ćan je, je -- di -- %|
   ni. Ne su -- sta -- %|
   je i ne -- će %|
-  pas -- ti. I dr -- ži %|
+  pas -- ti, i dr -- ži %|
   što o -- be -- ća -- %|
-  je na gla -- vi %|
+  je. Na gla -- vi %|
   bro -- ji sva -- ku %|
-  vlas. On put %|
+  vlas, On put %|
   do -- bar po -- zna -- %|
   je, ko -- ji kroz %|
   ta -- mu me -- ne %|
@@ -186,17 +186,17 @@ alignerOneTwo = \relative {
 }
 
 lyricOneTwo = \lyricmode {
-  To da -- de %|
+  \set stanza = "3." To da -- de %|
   Bog, sve što ja %|
   je -- sam. Moj ži -- vot %|
   nje -- mu pri -- pa -- %|
   da. Nje -- gov je %|
   svijet i sve na %|
-  nje -- mu. Po Njem’ do -- %|
+  nje -- mu, po Njem’ do -- %|
   bi -- va smi -- sa -- %|
   o. Me -- ne je %|
   pr -- vi lju -- bi -- %|
-  o. Po -- zna -- %|
+  o, po -- zna -- %|
   o i cije -- ni -- %|
   o. Ži -- vot je %|
   si -- gu -- ran u %|

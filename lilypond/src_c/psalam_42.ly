@@ -145,7 +145,7 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Ko što %|
+  \set stanza = "1." Ko što %|
   je -- len tra -- ži %|
   vo -- du, __ du -- ša %|
   mo -- ja tra -- ži %|
@@ -217,7 +217,7 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  Du -- ša %|
+  \set stanza = "2." Du -- ša %|
   tu -- gu -- je u %|
   me -- ni, __ val za %|
   va -- lom lo -- mi %|
