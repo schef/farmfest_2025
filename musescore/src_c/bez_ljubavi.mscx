@@ -130,6 +130,9 @@
             <tempo>1.5833333333333333</tempo>
             <text><sym>metNoteQuarterUp</sym> = 95</text>
             </Tempo>
+          <RehearsalMark>
+            <text>A1</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -412,6 +415,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>16</root>
@@ -895,6 +901,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -1070,6 +1079,9 @@
             <root>19</root>
             <name>m7</name>
             </Harmony>
+          <RehearsalMark>
+            <text>B</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -1484,6 +1496,9 @@
           <Harmony>
             <root>16</root>
             </Harmony>
+          <RehearsalMark>
+            <text>A2</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -1768,6 +1783,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>16</root>
@@ -2252,6 +2270,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -2428,6 +2449,9 @@
             <root>19</root>
             <name>m7</name>
             </Harmony>
+          <RehearsalMark>
+            <text>C</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2862,6 +2886,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>15</root>
@@ -3186,6 +3213,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>16</root>

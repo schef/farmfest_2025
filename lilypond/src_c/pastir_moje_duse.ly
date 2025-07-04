@@ -15,7 +15,7 @@ aFourL = {}
   titlex = "Shepherd Of My Soul"
   composer = "Rivers & Robots"
   style = ""
-  broj = "4"
+  broj = "5"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 

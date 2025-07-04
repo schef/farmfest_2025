@@ -192,8 +192,8 @@ alignerOneThree = \relative {
   c2 r4 r8 c8 |
   c8 c8 c8 c8 c8 c4 c8 |
   c4 c4 c8 c4 c8( |
-  c4 c8 c8) c8 c8 r8 c8 |
-  r2 r2 |
+  c4 c8 c8) c8 c8 r8 c8( |
+  c2) r2 |
   r4 r8 r8 r8 r8 r8 r8 |
   r4 r8 r8 r4 r4 |
   r4 r8 r8 r4 r8 r8 |
@@ -211,7 +211,7 @@ lyricOneThree = \lyricmode {
   ve. I %|
   tad sam si -- gu -- ran, On me %|
   iz -- ne -- vje -- ri -- ti __ %|
-  ne mo -- že. %|
+  ne mo -- že. __ %|
   %|
   %|
   %|

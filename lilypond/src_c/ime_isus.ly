@@ -143,7 +143,7 @@ alignerOneOne = \relative {
   c8 c8( c2) c8 c8 |
   c8 c4.( c8 c8) c8 c8 |
   c8 c8( c4) c4 c8 c8 |
-  r8 c8( c4) c4 c4 |
+  r8 c8 r4 c4 c4 |
   c4 c2 r4 |
   r2 c4 c4 |
   c4 c4 c8 c4 c8( |
@@ -167,7 +167,7 @@ lyricOneOne = \lyricmode {
   Nje -- mu __ i On %|
   me -- ni. __ Haj -- de %|
   i ti __ list o -- kre -- %|
-  ni. __ I -- me %|
+  ni. I -- me %|
   I -- sus. %|
   I -- me %|
   I -- sus On je taj, __ %|
@@ -191,7 +191,7 @@ alignerOneTwo = \relative {
   c8 c8( c2) c8 c8 |
   c8 c4.( c8) c8 c8 c8 |
   c8 c8( c4) c4 c8 c8 |
-  r8 c8( c4) c4 c4 |
+  r8 c8 r4 c4 c4 |
   c4 c2 r4 |
   r2 c4 c4 |
   c4 c4 c8 c4 c8( |
@@ -215,7 +215,7 @@ lyricOneTwo = \lyricmode {
   nas On __ mje -- sta %|
   i -- ma __ u svo -- jim %|
   mi -- lim __ sta -- no -- vi -- %|
-  ma. __ I -- me %|
+  ma. I -- me %|
   I -- sus. %|
   I -- me %|
   I -- sus On je taj, __ %|

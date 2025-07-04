@@ -15,7 +15,7 @@ aFourR = {}
   titlex = "Tvoje Nebo"
   composer = "Danko Tomanić"
   style = ""
-  broj = "8"
+  broj = "9"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 

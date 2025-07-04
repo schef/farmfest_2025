@@ -15,7 +15,7 @@ aFourL = {}
   titlex = "Es Walte Gott"
   composer = "Rebecca Watta"
   style = ""
-  broj = "7"
+  broj = "8"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 

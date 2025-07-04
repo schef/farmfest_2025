@@ -11,12 +11,20 @@ import shutil
 from pathlib import Path
 from typing import Optional
 
+#Have to execute this commands before executing this script from shell
+#python -m venv myenv
+#source myenv/bin/activate
+#pip install typer
+
 #VERBOSE = False
 VERBOSE = True
 
 LILYPOND_GENERATOR_EXEC="python ~/../schef_backup/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py"
 LILYPOND_VERSION="2.24.3"
 LILYPOND_BIN_PATH="lilypond"
+#LILYPOND_GENERATOR_EXEC_BEBOX="python /home/deck/git/duhovne_pjesme_novi_sad_1966/scripts/new/lilypond_generator.py"
+#LILYPOND_VERSION_BEBOX="2.24.4"
+#LILYPOND_BIN_PATH+BEBOX="/home/deck/Downloads/lilypond-2.24.4/bin/lilypond"
 LILYPOND_CONFIG_PATH="./lilypond/config/"
 POINT_AND_CLICK="--no-point-and-click"
 #POINT_AND_CLICK="--point-and-click"
@@ -54,26 +62,29 @@ class Song:
     page_orientation: PageOrientation
 
 song_list = [
-    Song("bez_ljubavi", 1, PageOrientation.Right), #1
-    Song("bog_je_moja_snaga", 2, PageOrientation.Right), #1
-
-    Song("ime_isus", 3, PageOrientation.Left), #1
-    # slika
-
-    Song("pastir_moje_duse", 4, PageOrientation.Left), #2
-
-    Song("poziv", 5, PageOrientation.Left), #1
+    Song("bez_ljubavi", 1, PageOrientation.Left), #2
     #slika
 
-    Song("psalam_42", 6, PageOrientation.Left), #2
+    Song("bog_je_moja_snaga", 2, PageOrientation.Left), #1
+    Song("ime_isus", 3, PageOrientation.Right), #1
 
-    Song("to_dade_bog", 7, PageOrientation.Left), #1
-    Song("tvoje_nebo", 8, PageOrientation.Right), #1
-
-    Song("u_duhu_budite_gorljivi", 9, PageOrientation.Left), #1
+    Song("isus_nazarecanin", 4, PageOrientation.Left), #1
     #slika
 
-    Song("vidjeh_oblak", 10, PageOrientation.Right), #2
+    Song("pastir_moje_duse", 5, PageOrientation.Left), #2
+    Song("poziv", 6, PageOrientation.Right), #1
+
+    Song("psalam_42", 7, PageOrientation.Left), #2
+    #slika
+
+    Song("to_dade_bog", 8, PageOrientation.Left), #1
+    Song("tvoje_nebo", 9, PageOrientation.Right), #1
+
+    Song("u_duhu_budite_gorljivi", 10, PageOrientation.Left), #1
+    #slika
+
+    Song("vidjeh_oblak", 11, PageOrientation.Left), #2
+    #slika
 ]
 
 transposition_list = [
