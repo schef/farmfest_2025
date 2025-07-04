@@ -1412,6 +1412,8 @@
             <Lyrics>
               <no>3</no>
               <syllabic>end</syllabic>
+              <ticks>240</ticks>
+              <ticks_f>1/8</ticks_f>
               <text>že.</text>
               </Lyrics>
             <Spanner type="Slur">

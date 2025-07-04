@@ -1207,22 +1207,18 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <syllabic>end</syllabic>
+              <text>nu?</text>
+              </Lyrics>
+            <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
               <text>ni.</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <ticks>240</ticks>
-              <ticks_f>1/8</ticks_f>
               <text>ma.</text>
-              </Lyrics>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>nu?</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">

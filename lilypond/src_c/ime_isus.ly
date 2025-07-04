@@ -1,7 +1,7 @@
 \version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
-aFourL = {}
+aFourR = {}
 \include "include.ily"
 %markMoj = #(define-music-function (letter) (string?) #{ \mark \markup { \box \bold #letter } #})
 %\pointAndClickOff
@@ -20,7 +20,7 @@ aFourL = {}
 }
 
 \paper {
-  \aFourL
+  \aFourR
   %min-systems-per-page = #7
   %annotate-spacing = ##t
   %system-system-spacing.padding = #3.2
