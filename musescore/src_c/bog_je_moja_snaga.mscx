@@ -306,7 +306,7 @@
               <next>
                 <location>
                   <measures>1</measures>
-                  <fractions>-5/8</fractions>
+                  <fractions>-1/2</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -368,14 +368,6 @@
               <no>3</no>
               <text>kad</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>5/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -397,6 +389,14 @@
               <no>3</no>
               <text>se</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>

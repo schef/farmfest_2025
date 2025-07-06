@@ -32,7 +32,7 @@ staffOne = \relative c' {
   \time 4/4
   %\tempo 4 = 100
   \markMoj
-  e8 g8 g8 e8 g8 e4 ((e8 )~|
+  e8 g8 g8 e8 g8 e4 (~e8 ~|
   e8 d8 )e8 d8 c4. (c8 )|
   e8 g8 g8 e8 g8 g8 (a8 )a8 ~|
   a2 r4 r8 c,8 |
@@ -40,7 +40,7 @@ staffOne = \relative c' {
   a4 )g4 f8 e4 d8 (~|
   d4 ~d8 ~d8 )d8 d8 (c8 )d8 (|
   d2 )r2 \bar ":|." | \break
-  \markMoj
+  \markMojPonRight
   r4 c'8 c8 c8 c8 c8 c8 |
   d4 c8 c8 ~c4 r4 |
   r4 c8 a8 c4 c8 a8 |

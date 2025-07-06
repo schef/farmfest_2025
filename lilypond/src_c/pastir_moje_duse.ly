@@ -23,7 +23,7 @@ aFourL = {}
   \aFourL
   %min-systems-per-page = #7
   %annotate-spacing = ##t
-  %system-system-spacing.padding = #3.2
+  system-system-spacing.padding = #2.11
   %page-breaking = #ly:one-page-breaking
   %last-bottom-spacing.minimum-distance = #8
 }
@@ -92,11 +92,11 @@ harmonyOne = \chordmode  {
 alignerOneZero = \relative {
   c8. c16 r16 c8. c8. c16 r16 c8. |
   c4 r4 c4 c4 |
-  c8. c16 r16 c8. c8. c16( c16) c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c4 r4 r2 |
-  c8. c16( c16) c8. c8. c16 r16 c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c4 r4 c4 c4 |
-  c8. c16( c16) c8. c8. c16 r16 c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c4 r4 r2 |
   c4 r8 r8 r8. c16 r8 c8 |
   r8 c8 c8 c8 c8 c8 c8 c8 |
@@ -119,11 +119,11 @@ alignerOneZero = \relative {
 lyricOneZero = \lyricmode {
   \set stanza = "1." Vla -- da -- ru pla -- ni -- na %|
   i mo -- ra, %|
-  pri -- pre -- maš put za __ me -- %|
+  pri -- pre -- maš put za me -- %|
   ne. %|
-  Bo -- že __ svih raz -- dob -- lja %|
+  Bo -- že svih raz -- dob -- lja %|
   i ne -- ba, %|
-  u -- vijek __ si ču -- va -- o %|
+  u -- vijek si ču -- va -- o %|
   me. %|
   Go -- spo -- de, %|
   Ti bu -- di pas -- tir mo -- je %|
@@ -150,7 +150,7 @@ alignerOneOne = \relative {
   c4 r4 r2 |
   c8. c16 r16 c8. c8. c16 r16 c8. |
   c4 r4 c4 c4 |
-  c8. c16( c16) c8. c8. c16( c16) c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c4 r4 r2 |
   r4 r8 r8 r8. r16 r8 r8 |
   r8 r8 r8 r8 r8 r8 r8 r8 |
@@ -177,7 +177,7 @@ lyricOneOne = \lyricmode {
   je. %|
   Mi -- los -- tiv, bes -- kraj -- no %|
   si, u -- vijek %|
-  vje -- ran __ i mu -- dar __ si %|
+  vje -- ran i mu -- dar si %|
   Ti. %|
   %|
   %|
