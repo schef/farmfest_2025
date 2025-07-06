@@ -35,7 +35,7 @@ staffOne = \relative c' {
   a'2 g4 |
   g4 c2 |
   d4 c4 d8 e8 |
-  e4. d8 c4 | \break
+  e4. d8 c4 |
   a2 g4 |
   g4. c4. |
   d2. |
@@ -43,7 +43,7 @@ staffOne = \relative c' {
   a4 a4 g4 |
   g4 c2 |
   d4 (c4 )e4 |
-  e4. d8 c4 | \break
+  e4. d8 c4 |
   a4 a4 g4 |
   g4. c4. (|
   d2. )|
@@ -190,22 +190,22 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Go -- spo -- %|
+  \set stanza = "1." Go spo -- %|
   dar je %|
   I -- sus Na -- za -- %|
-  re -- ća -- nin. %|
-  Moj ot -- %|
+  re -- ća -- nin, %|
+  moj Ot -- %|
   ku -- pi -- %|
-  telj, %|
+  telj. %|
   %|
-  sad i u -- %|
-  vije -- ke. %|
-  Moj __ je %|
+  Sad i za -- %|
+  u -- vijek %|
+  moj __ je %|
   za -- stup -- nik, %|
   mi -- lost bez %|
   mje -- re. __ %|
   %|
-  Pje -- vam %|
+  Pje -- vam: %|
   zar %|
   me %|
   lju -- bi %|
@@ -230,7 +230,7 @@ lyricOneZero = \lyricmode {
   %|
   ni -- kad se %|
   vra -- ti -- o, %|
-  Nit' %|
+  nit' %|
   bih __ %|
   %|
   %|
@@ -294,19 +294,19 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  Pri -- ja -- %|
+  \set stanza = "2." Pri -- ja -- %|
   telj moj %|
   I -- sus Na -- za -- %|
-  re -- ća -- nin. %|
-  Znam on %|
+  re -- ća -- nin, %|
+  znam, On %|
   lju -- bi %|
   me. %|
   %|
   Do -- bri je %|
-  pa -- stir, %|
+  Pa -- stir, %|
   u -- vijek %|
-  šti -- ti me. %|
-  Mi -- lost bez %|
+  šti -- ti me, %|
+  mi -- lost bez %|
   mje -- re. __ %|
   %|
   %|

@@ -136,13 +136,12 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>Go</text>
+              <text>1. Go</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Pri</text>
+              <text>2. Pri</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -154,7 +153,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>middle</syllabic>
+              <syllabic>begin</syllabic>
               <text>spo</text>
               </Lyrics>
             <Lyrics>
@@ -186,7 +185,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
+              <ticks_f>0/4</ticks_f>
               <text>telj</text>
               </Lyrics>
             <Note>
@@ -296,9 +295,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <root>18</root>
@@ -459,7 +455,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>telj,</text>
+              <text>telj.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -496,7 +492,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>sad</text>
+              <text>Sad</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -532,7 +528,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>u</text>
+              <text>za</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -556,12 +552,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>vije</text>
+              <text>u</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>pa</text>
+              <text>Pa</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -574,8 +570,8 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
-              <text>ke.</text>
+              <ticks_f>0/4</ticks_f>
+              <text>vijek</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -602,7 +598,7 @@
             <Lyrics>
               <ticks>480</ticks>
               <ticks_f>4/16</ticks_f>
-              <text>Moj</text>
+              <text>moj</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -662,9 +658,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <root>18</root>
@@ -698,7 +691,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
+              <ticks_f>0/8</ticks_f>
               <text>ti</text>
               </Lyrics>
             <Note>
@@ -717,7 +710,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>me.</text>
+              <text>me,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -905,7 +898,7 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
-              <text>vam</text>
+              <text>vam:</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1839,7 +1832,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
+              <ticks_f>0/8</ticks_f>
               <text>o,</text>
               </Lyrics>
             <Note>
@@ -1860,7 +1853,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>Nit'</text>
+              <text>nit'</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>

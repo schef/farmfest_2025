@@ -2588,7 +2588,7 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
+              <ticks_f>1/16</ticks_f>
               <text>še</text>
               </Lyrics>
             <Note>
@@ -2626,7 +2626,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>si</text>
+              <text>si.</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>

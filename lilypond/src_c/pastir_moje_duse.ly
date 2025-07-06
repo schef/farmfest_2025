@@ -23,7 +23,7 @@ aFourL = {}
   \aFourL
   %min-systems-per-page = #7
   %annotate-spacing = ##t
-  %system-system-spacing.padding = #3.2
+  system-system-spacing.padding = #2.11
   %page-breaking = #ly:one-page-breaking
   %last-bottom-spacing.minimum-distance = #8
 }
@@ -140,7 +140,7 @@ lyricOneZero = \lyricmode {
   vo -- di me na iz -- vor, %|
   vo -- di kroz do -- li -- ne, %|
   vo -- di me u mu -- drost. %|
-  Pas -- tir du -- še __ si %|
+  Pas -- tir du -- še __ si. %|
 }
 
 alignerOneOne = \relative {

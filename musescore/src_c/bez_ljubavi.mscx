@@ -162,6 +162,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <syllabic>end</syllabic>
               <text>dem</text>
               </Lyrics>
             <Note>
@@ -494,8 +495,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
-              <text>pre</text>
+              <text>da</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -518,8 +518,8 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>middle</syllabic>
-              <text>mje</text>
+              <syllabic>begin</syllabic>
+              <text>pre</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -538,8 +538,8 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>end</syllabic>
-              <text>štam</text>
+              <syllabic>middle</syllabic>
+              <text>mje</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -581,7 +581,8 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>čak</text>
+              <syllabic>end</syllabic>
+              <text>štam</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -746,14 +747,10 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>1/16</ticks_f>
               <text>pak,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>mi</text>
               </Lyrics>
             <Note>
@@ -832,15 +829,13 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
-              <text>šta</text>
-              </Lyrics>
-            <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
               <text>za</text>
+              </Lyrics>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>šta</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1820,6 +1815,8 @@
               </Lyrics>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks>120</ticks>
+              <ticks_f>1/16</ticks_f>
               <text>nje</text>
               </Lyrics>
             <Note>
@@ -2114,15 +2111,11 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>mi</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>je</text>
               </Lyrics>
             <Note>
@@ -2482,8 +2475,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>daj</text>
               </Lyrics>
             <Note>
@@ -3151,14 +3142,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>Jer</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>Jer</text>
               </Lyrics>
             <Note>
@@ -3457,14 +3444,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>Jer</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>Jer</text>
               </Lyrics>
             <Note>

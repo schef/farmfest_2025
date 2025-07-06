@@ -109,7 +109,7 @@ alignerOneZero = \relative {
   c8. c16( c16) c8. c4 r4 |
   c8. c16( c16) c8. c8. c16( c16) c8. |
   c8. c16 r16 c8. c4 r4 |
-  c8. c16( c16) c8. c8. c16( c16) c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c8. c16 r16 c8. c2 |
   r1 |
   r1 |
@@ -120,9 +120,9 @@ alignerOneZero = \relative {
   r1 |
   c8. c16 r16 c8. c8. c16( c16) c8. |
   c8. c16 r16 c8. c4 r4 |
-  c8. c16 r16 c8. c8. c16 r16 c8. |
-  c8. c16 r16 c8. c4 r4 |
   c8. c16( c16) c8. c8. c16 r16 c8. |
+  c8. c16 r16 c8. c4 r4 |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c8. c16 r16 c8. c2 |
   r1 |
   r1 |
@@ -131,9 +131,9 @@ alignerOneZero = \relative {
   c8. c16( c16) c8. c8. c16 r8 c8( |
   c2) r2 |
   c8. c16( c16) c8. c8. c16 r8 c8( |
-  c8 c8) r4 r8 r16 c16( c16) c8. |
+  c8 c8) r4 r8 r16 c16 r16 c8. |
   c8. c16 r16 c8. c8 c16 c16( c16) c8.( |
-  c4) r4 r8 r16 c16( c16) c8. |
+  c4) r4 r8 r16 c16 r16 c8. |
   c8. c16 r16 c8. c8 c16 c16( c16) c8.( |
   c4) r4 r2 |
 }
@@ -143,7 +143,7 @@ lyricOneZero = \lyricmode {
   je -- zik __ da znam; %|
   taj -- ne __ i zna -- nje __ i %|
   pro -- ro -- štva dar, %|
-  i -- pak, __ ja ni -- šta __ sam %|
+  i -- pak, ja ni -- šta sam %|
   bez lju -- ba -- vi. %|
   %|
   %|
@@ -154,9 +154,9 @@ lyricOneZero = \lyricmode {
   %|
   \set stanza = "2." Pro -- ro -- štva blije -- de __ i %|
   je -- zi -- ci svi, %|
-  zna -- nje će pre -- sta -- ti %|
+  zna -- nje __ će pre -- sta -- ti %|
   i ne -- sta -- ti; %|
-  sve mi __ je u -- za -- lud %|
+  sve mi je u -- za -- lud %|
   bez lju -- ba -- vi. %|
   %|
   %|
@@ -165,9 +165,9 @@ lyricOneZero = \lyricmode {
   vje -- ri __ i is -- ti -- ni, __ %|
   %|
   krv -- lju __ is -- kup -- lje -- ni. __ %|
-  Jer __ bez %|
+  Jer bez %|
   lju -- ba -- vi niš -- ta je __ sve; __ %|
-  Jer __ bez %|
+  Jer bez %|
   lju -- ba -- vi niš -- ta je __ sve. __ %|
   %|
 }
@@ -177,7 +177,7 @@ alignerOneOne = \relative {
   c8. c16 r16 c8. c4 r4 |
   c8. c16 r16 c8. c8. c16 r16 c8. |
   c8. c16 r16 c8. c4 r4 |
-  c8. c16( c16) c8. c8. c16 r16 c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c8. c16 r16 c8. c2 |
   r1 |
   r1 |
@@ -190,18 +190,18 @@ alignerOneOne = \relative {
   c8. c16 r16 c8. c4 r4 |
   c8. c16( c16) c8. c8. c16( c16) c8. |
   c8. c16 r16 c8. c4 r4 |
-  c8. c16( c16) c8. c8. c16 r16 c8. |
+  c8. c16 r16 c8. c8. c16 r16 c8. |
   c8. c16 r16 c8. c2 |
   r1 |
   r1 |
-  c8. c16( c16) c8. c8. c16 r8 c8( |
+  c8. c16 r16 c8. c8. c16 r8 c8( |
   c8) c4. r4 r8 r8 |
   c8. c16 r16 c8. c8. c16 r8 c8( |
   c2) r2 |
   c8. c16( c16) c8. c8. c16 r8 c8 |
-  r8 c8 r4 r8 r16 c16( c16) c8. |
+  r8 c8 r4 r8 r16 c16 r16 c8. |
   c8. c16 r16 c8. c8 c16 c16( c16) c8.( |
-  c4) r4 r8 r16 c16( c16) c8. |
+  c4) r4 r8 r16 c16 r16 c8. |
   c8. c16 r16 c8. c8 c16 c16( c16) c8.( |
   c4) r4 r2 |
 }
@@ -209,9 +209,9 @@ alignerOneOne = \relative {
 lyricOneOne = \lyricmode {
   Bu -- dem li hra -- bar kroz %|
   ne -- vo -- lje sve, %|
-  vje -- rom pre -- mje -- štam čak %|
+  vje -- rom da pre -- mje -- štam %|
   i pla -- ni -- ne: %|
-  sve mi __ je u -- za -- lud %|
+  sve mi je u -- za -- lud %|
   bez lju -- ba -- vi. %|
   %|
   %|
@@ -224,18 +224,18 @@ lyricOneOne = \lyricmode {
   po -- no -- si -- to, %|
   pra -- šta __ i tr -- pi __ sve, %|
   do -- bro -- sti -- vo; %|
-  ni -- je __ raz -- draž -- lji -- va, %|
+  ni -- je raz -- draž -- lji -- va, %|
   ne pam -- ti zlo. %|
   %|
   %|
-  Ne -- daj __ da iz -- gu -- bim __ %|
+  Ne -- daj da iz -- gu -- bim __ %|
   se, %|
   u -- mo -- ran, Gos -- po -- de, __ %|
   %|
   du -- šu __ Ti sad pre -- da -- %|
-  jem. Jer __ bez %|
+  jem. Jer bez %|
   lju -- ba -- vi niš -- ta je __ sve; __ %|
-  Jer __ bez %|
+  Jer bez %|
   lju -- ba -- vi niš -- ta je __ sve. __ %|
   %|
 }
