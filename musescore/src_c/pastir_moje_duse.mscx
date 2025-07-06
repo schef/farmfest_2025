@@ -474,14 +474,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
-              <text>za</text>
-              </Lyrics>
-            <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
               <text>ri</text>
+              </Lyrics>
+            <Lyrics>
+              <text>za</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -602,15 +600,13 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
-              <text>že</text>
-              </Lyrics>
-            <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
               <text>los</text>
+              </Lyrics>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>že</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -801,7 +797,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
+              <ticks_f>0/4</ticks_f>
               <text>vijek</text>
               </Lyrics>
             <Note>
@@ -842,15 +838,11 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>vijek</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>ran</text>
               </Lyrics>
             <Note>
@@ -930,8 +922,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks>120</ticks>
-              <ticks_f>2/32</ticks_f>
               <text>dar</text>
               </Lyrics>
             <Note>

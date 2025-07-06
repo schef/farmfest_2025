@@ -29,111 +29,112 @@ aFourL = {}
 }
 
 staffOne = \relative c' {
+  \key g \major
   \time 3/4
   %\tempo 4 = 135
   \markMoj
-  a'2 g4 |
-  g4 c2 |
-  d4 c4 d8 e8 |
-  e4. d8 c4 |
-  a2 g4 |
-  g4. c4. |
-  d2. |
+  e2 d4 |
+  d4 g2 |
+  a4 g4 a8 h8 |
+  h4. a8 g4 |
+  e2 d4 |
+  d4. g4. |
+  a2. |
   r2. | \break
-  a4 a4 g4 |
-  g4 c2 |
-  d4 (c4 )e4 |
-  e4. d8 c4 |
-  a4 a4 g4 |
-  g4. c4. (|
-  d2. )|
-  r4 r4 c8 d8 \bar "||" | \break
-  \markMoj
-  e2. |
-  e2. |
-  r4 f8 f4. |
-  f4 e8 d4. |
-  d4 d4 d8 d8 ~|
-  d4 e4 f4 |
-  e4. e4. |
-  e4 d4 c4 | \break
-  e2. |
-  e4. d4. |
-  f4. f4. |
-  f4 e8 d4. |
-  d4 d4 d8 d8 ~|
-  d4 e4 f4 |
-  e4. e4. |
-  e4 d4 c4 | \break
-  c2. |
-  g'2. ~|
-  g2. ~|
-  g2. ~|
-  g2. |
-  r2. |
-  e8 f4 e4. |
-  d4 c8 d4. | \break
-  c2. |
-  g'2. (~|
-  g2. ~|
-  g2. |
+  e4 e4 d4 |
+  d4 g2 |
+  a4 (g4 )h4 |
+  h4. a8 g4 |
+  e4 e4 d4 |
+  d4. g4. (|
   a2. )|
-  r4 r4 e4 |
-  e8 f4. e4 |
-  d2 c4 |
-  c2. |
+  r4 r4 g8 a8 \bar "||" | \break
+  \markMoj
+  h2. |
+  h2. |
+  r4 c8 c4. |
+  c4 h8 a4. |
+  a4 a4 a8 a8 ~|
+  a4 h4 c4 |
+  h4. h4. |
+  h4 a4 g4 | \break
+  h2. |
+  h4. a4. |
+  c4. c4. |
+  c4 h8 a4. |
+  a4 a4 a8 a8 ~|
+  a4 h4 c4 |
+  h4. h4. |
+  h4 a4 g4 | \break
+  g2. |
+  d'2. ~|
+  d2. ~|
+  d2. ~|
+  d2. |
+  r2. |
+  h8 c4 h4. |
+  a4 g8 a4. | \break
+  g2. |
+  d'2. (~|
+  d2. ~|
+  d2. |
+  e2. )|
+  r4 r4 h4 |
+  h8 c4. h4 |
+  a2 g4 |
+  g2. |
 }
 
 harmonyOne = \chordmode  {
-  f2. |
   c2. |
   g2. |
-  a2.:m |
-  f2. |
+  d2. |
+  e2.:m |
   c2. |
   g2. |
-  s2. |
-  f2. |
-  c2. |
-  g2. |
-  a2.:m |
-  f2. |
-  c2. |
-  g2. |
-  s2. |
-  c2. |
-  s2. |
-  f2. |
-  s2. |
-  g2. |
-  s2. |
-  a2.:m |
-  f2. |
-  c2. |
-  s2. |
-  f2. |
-  s2. |
-  g2. |
-  s2. |
-  a2.:m |
-  g2. |
-  f2. |
+  d2. |
   s2. |
   c2. |
   g2. |
-  f2. |
-  s2. |
-  a2.:m |
-  g2. |
-  f2. |
-  s2. |
+  d2. |
+  e2.:m |
   c2. |
   g2. |
-  f2. |
+  d2. |
   s2. |
-  a2.:m |
   g2. |
   s2. |
+  c2. |
+  s2. |
+  d2. |
+  s2. |
+  e2.:m |
+  c2. |
+  g2. |
+  s2. |
+  c2. |
+  s2. |
+  d2. |
+  s2. |
+  e2.:m |
+  d2. |
+  c2. |
+  s2. |
+  g2. |
+  d2. |
+  c2. |
+  s2. |
+  e2.:m |
+  d2. |
+  c2. |
+  s2. |
+  g2. |
+  d2. |
+  c2. |
+  s2. |
+  e2.:m |
+  d2. |
+  g2. |
   \bar "|."
 }
 
