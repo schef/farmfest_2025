@@ -341,14 +341,14 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
-              <text>nin.</text>
+              <ticks_f>0/4</ticks_f>
+              <text>nin,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <ticks_f>0/16</ticks_f>
-              <text>nin.</text>
+              <ticks_f>0/4</ticks_f>
+              <text>nin,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -367,11 +367,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text>Moj</text>
+              <text>moj</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>Znam</text>
+              <text>znam,</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -384,11 +384,11 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>ot</text>
+              <text>Ot</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>on</text>
+              <text>On</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -735,7 +735,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Mi</text>
+              <text>mi</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
