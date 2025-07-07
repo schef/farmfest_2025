@@ -109,6 +109,10 @@
           <style>Composer</style>
           <text>Franko Cetinić</text>
           </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Farmfest 2025</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -136,17 +140,17 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Nek</text>
+              <text>1. Nek</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>Lju</text>
+              <text>2. Lju</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>Ra</text>
+              <text>3. Ra</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -600,14 +604,23 @@
               <no>2</no>
               <ticks>240</ticks>
               <ticks_f>2/16</ticks_f>
-              <text>I</text>
+              <text>i</text>
               </Lyrics>
             <Lyrics>
               <ticks>240</ticks>
               <ticks_f>2/16</ticks_f>
-              <text>Da</text>
+              <text>da</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>66</pitch>
               <tpc>20</tpc>
               <velocity>100</velocity>
@@ -622,6 +635,13 @@
               <text>ni</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>66</pitch>
               <tpc>20</tpc>
               <velocity>100</velocity>

@@ -119,7 +119,7 @@
         <Text>
           <style>Subtitle</style>
           <offset x="0" y="9.99175"/>
-          <text><font size="14"></font>Gecemani</text>
+          <text><font size="14"/>Farmfest 2025</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -209,7 +209,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>ću</text>
+              <text>ču</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -269,7 +269,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>tvo</text>
+              <text>Tvo</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -281,6 +281,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>ziv</text>
               </Lyrics>
             <Lyrics>
@@ -307,7 +308,7 @@
             <Lyrics>
               <ticks>240</ticks>
               <ticks_f>1/8</ticks_f>
-              <text>tvoj</text>
+              <text>Tvoj,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -344,7 +345,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>ne</text>
+              <text>ne,</text>
               </Lyrics>
             <Spanner type="Slur">
               <prev>
@@ -517,7 +518,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>ti</text>
+              <text>Ti</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -638,6 +639,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>vot</text>
               </Lyrics>
             <Note>
@@ -663,7 +665,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>begin</syllabic>
-              <text>vije</text>
+              <text>vje</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -1004,14 +1006,14 @@
               <syllabic>end</syllabic>
               <ticks>120</ticks>
               <ticks_f>1/16</ticks_f>
-              <text>ka</text>
+              <text>ka,</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
               <ticks>120</ticks>
               <ticks_f>1/16</ticks_f>
-              <text>no</text>
+              <text>no,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1161,7 +1163,7 @@
             <Lyrics>
               <no>2</no>
               <syllabic>end</syllabic>
-              <text>če</text>
+              <text>će</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1185,7 +1187,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>vije</text>
+              <text>vje</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
