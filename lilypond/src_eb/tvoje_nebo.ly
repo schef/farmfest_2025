@@ -1,4 +1,4 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
 aFourR = {}
@@ -12,10 +12,10 @@ aFourR = {}
 
 \header {
   title = "TVOJE NEBO"
-  titlex = "Tvoje Nebo"
+  titlex = "Farmfest 2025"
   composer = "Danko Tomanić"
   style = ""
-  broj = "7"
+  broj = "9"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -29,47 +29,47 @@ aFourR = {}
 }
 
 staffOne = \relative c' {
-  \key a \major
+  \key g \major
   \time 4/4
   %\tempo 4 = 114
   \clef treble
   \markMoj
-  r8 fis'8 fis8 e8 fis8 e8 fis8 e8 ~|
-  e8 h8 ~h4 r2 |
-  r8 fis'8 fis8 e8 fis8 fis8 e8 e8 (~|
-  e16 fis16 gis8 ~gis4 )r2 |
-  r8 fis8 fis8 e8 fis8 e8 fis8 e8 ~|
-  e8 h8 ~h4 r2 |
-  r8 d8 d8 cis8 d8 cis8 d8 h8 ~|
-  h2 r2 \bar "||" | \break
-  \markMoj
-  r4 a'8 gis8 a8 gis8 a8 a8 (~|
-  a8 h8 ~h4 )r2 |
-  r4 cis8 h8 cis8 h8 cis8 cis8 (~|
-  cis8 d8 ~d4 )r8 cis4 d8 |
-  e2 \tuplet 3/2 { e4 d4 cis4 } |
-  h2 cis4. gis8 |
-  h8 a8 (~a4 ~a8 gis8 a8 gis8 |
-  a1 )\bar "|." |
+  r8 e'8 e8 d8 e8 d8 e8 d8 ~|
+  d8 a8 ~a4 r2 |
+  r8 e'8 e8 d8 e8 e8 d8 d8 (~|
+  d16 e16 fis8 ~fis4 )r2 |
+  r8 e8 e8 d8 e8 d8 e8 d8 ~|
+  d8 a8 ~a4 r2 |
+  r8 c8 c8 h8 c8 h8 c8 a8 ~|
+  a2 r2 \bar ":|." | \break
+  \markMojPonRight
+  r4 g'8 fis8 g8 fis8 g8 g8 (~|
+  g8 a8 ~a4 )r2 |
+  r4 h8 a8 h8 a8 h8 h8 (~|
+  h8 c8 ~c4 )r8 h4 c8 |
+  d2 \tuplet 3/2 { d4 c4 h4 } |
+  a2 h4. fis8 |
+  a8 g8 (~g4 ~g8 fis8 g8 fis8 |
+  g1 )\bar "|." |
 }
 
 harmonyOne = \chordmode  {
-  h1:m7 |
-  e1:7 |
-  h1:m7 |
-  e1:7 |
-  h1:m7 |
-  e1:7 |
-  h1:m7 |
-  e1 |
-  a1 |
-  e1 |
-  fis1:m |
+  a1:m7 |
+  d1:7 |
+  a1:m7 |
+  d1:7 |
+  a1:m7 |
+  d1:7 |
+  a1:m7 |
   d1 |
-  a1 |
-  e2 cis2:7 |
-  fis1:m |
+  g1 |
   d1 |
+  e1:m |
+  c1 |
+  g1 |
+  d2 h2:7 |
+  e1:m |
+  c1 |
   \bar "|."
 }
 
@@ -93,21 +93,21 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Sad ru -- ke po -- di -- žem te -- %|
-  bi __ %|
-  te -- bi sam sve pre -- da -- o __ %|
+  Sad ru -- ke po -- di -- žem Te -- %|
+  bi, __ %|
+  Te -- bi sam sve pre -- da -- o, __ %|
   %|
   i svo -- je sto -- pe sad ne -- %|
   bih __ %|
-  bez te -- be po -- kre -- nu -- o __ %|
+  bez te -- be po -- kre -- nu -- o. __ %|
   %|
-  Još te o -- sje -- čam tu __ %|
+  Još Te o -- sje -- ćam tu, __ %|
   %|
-  Ko da ho -- dam po tlu __ %|
+  k'o da ho -- dam po tlu, __ %|
   la -- ga -- %|
-  no na prs -- ti -- %|
-  ma tvo -- je %|
-  ne -- bo __ %|
+  no, na prs -- ti -- %|
+  ma: Tvo -- je %|
+  ne -- bo. __ %|
   %|
 }
 
@@ -118,7 +118,7 @@ alignerOneOne = \relative {
   c16 c16 c8 c4) r2 |
   r8 c8 c8 c8 c8 c8 c8 c8( |
   c8) c8( c4) r2 |
-  r8 c8 c8 c8 c8 c8 c8 c8( |
+  r8 r8 c8 c8 c8 c8 c8 c8( |
   c2) r2 |
   r4 r8 r8 r8 r8 r8 r8 |
   r8 r8 r4 r2 |
@@ -132,12 +132,12 @@ alignerOneOne = \relative {
 
 lyricOneOne = \lyricmode {
   Tvo -- ja me lju -- bav u -- mi -- %|
-  va __ %|
-  ko ro -- sa mi -- ri -- sni cvijet __ %|
+  va, __ %|
+  ko ro -- sa mi -- ri -- sni cvijet. __ %|
   %|
-  sve mo -- je "s to" -- bom pre -- bi __ %|
-  va __ %|
-  _ ti si je -- di -- ni svet __ %|
+  Sve mo -- je "s to" -- bom pre -- bi __ %|
+  va, __ %|
+  Ti si je -- di -- ni svet. __ %|
   %|
   %|
   %|

@@ -1,4 +1,4 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
 aFourL = {}
@@ -13,8 +13,9 @@ aFourL = {}
 \header {
   title = "U DUHU BUDITE GORLJIVI"
   composer = "Franko Cetinić"
+  titlex = "Farmfest 2025"
   style = ""
-  broj = "8"
+  broj = "10"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -36,7 +37,7 @@ staffOne = \relative c' {
   fis4 gis8 a8 ~a4 a8 gis8 |
   fis8 fis4. r4 fis8 e8 |
   fis4 gis8 gis8 ~gis4 r4 | \break
-  r4 gis8 gis8 gis8 gis8 fis8 gis8 |
+  r4 gis8 ~gis8 gis8 gis8 fis8 gis8 |
   a2 gis2 |
   fis4 fis8 e8 fis8 e8 r8 fis8 ~|
   fis8 e8 e2 r4 |
@@ -124,11 +125,11 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Nek u va -- šim %|
+  \set stanza = "1." Nek u va -- šim %|
   mi -- sli -- ma __ bu -- de %|
   što je ne -- ba %|
   do -- stoj -- no, %|
-  Da __ mo -- že -- te pro -- %|
+  da __ mo -- že -- te pro -- %|
   su -- di -- %|
   ti što je Bo -- gu u -- %|
   god -- no. %|
@@ -184,7 +185,7 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  Lju -- bav nek je %|
+  \set stanza = "2." Lju -- bav nek je %|
   is -- kre -- na, __ me -- đu %|
   va -- ma brat -- ska, %|
   sr -- dač -- na. %|
@@ -244,11 +245,11 @@ alignerOneTwo = \relative {
 }
 
 lyricOneTwo = \lyricmode {
-  Ra -- duj -- te se %|
+  \set stanza = "3." Ra -- duj -- te se %|
   "s o" -- ni -- ma __ ko -- ji __ %|
   se __ %|
   ra -- du -- ju, %|
-  I __ tu -- guj -- te sa %|
+  i __ tu -- guj -- te sa %|
   o -- ni -- %|
   ma __ ko -- ji tu -- %|
   gu -- ju. %|

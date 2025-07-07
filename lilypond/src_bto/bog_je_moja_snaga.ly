@@ -1,7 +1,7 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
-aFourR = {}
+aFourL = {}
 \include "include.ily"
 %markMoj = #(define-music-function (letter) (string?) #{ \mark \markup { \box \bold #letter } #})
 %\pointAndClickOff
@@ -13,13 +13,14 @@ aFourR = {}
 \header {
   title = "BOG JE MOJA SNAGA"
   composer = "Franko Cetinić"
+  titlex = "Farmfest 2025 (Sparki)"
   style = ""
-  broj = "1"
+  broj = "2"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
 \paper {
-  \aFourR
+  \aFourL
   %min-systems-per-page = #7
   %annotate-spacing = ##t
   %system-system-spacing.padding = #3.2
@@ -31,15 +32,15 @@ staffOne = \relative c' {
   \time 4/4
   %\tempo 4 = 100
   \markMoj
-  e8 g8 g8 e8 g8 e4 (e8 )|
-  e8 d8 e8 d8 c4. (c8 )|
+  e8 g8 g8 e8 g8 e4 (~e8 ~|
+  e8 d8 )e8 d8 c4. (c8 )|
   e8 g8 g8 e8 g8 g8 (a8 )a8 ~|
   a2 r4 r8 c,8 |
-  e8 g8 g8 e8 g8 e4 g8 |
-  a4 g4 f8 e4 d8 ~|
-  d4 d8 d8 d8 d8 c8 d8 (|
-  d2 )r2 | \break
-  \markMoj
+  e8 g8 g8 e8 g8 e4 g8 (|
+  a4 )g4 f8 e4 d8 (~|
+  d4 ~d8 ~d8 )d8 d8 (c8 )d8 (|
+  d2 )r2 \bar ":|." | \break
+  \markMojPonRight
   r4 c'8 c8 c8 c8 c8 c8 |
   d4 c8 c8 ~c4 r4 |
   r4 c8 a8 c4 c8 a8 |
@@ -90,15 +91,15 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Bog je mo -- ja sna -- ga __ %|
+  \set stanza = "1." Bog je mo -- ja sna -- ga __ %|
   kad sam slab. __ %|
-  Bog je mo -- ja ut -- je -- ha, __ %|
+  Bog je mo -- ja ut -- je -- ha __ %|
   %|
   kad mi sr -- ce klo -- ne, pre -- %|
   u -- mor -- no da __ %|
   na -- sta -- vi. __ %|
   %|
-  Bog je do -- bar, on mi %|
+  Bog je do -- bar, On mi %|
   da -- je sve. __ %|
   Ni -- šta mi ne ne -- %|
   do -- sta -- je. __ %|
@@ -128,11 +129,11 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  Bog je čvr -- sta stije -- na __ %|
-  on je jak. Na %|
-  nje -- ga ja se os -- la -- njam, __ %|
+  Bog je čvr -- sta stije -- na, __ %|
+  On je jak. Na %|
+  Nje -- ga ja se os -- la -- njam __ %|
   %|
-  jer on i -- ma sna -- ge da __ %|
+  jer On i -- ma sna -- ge da __ %|
   me iz -- ba -- vi __ %|
   od svih ne -- vo -- lja. __ %|
   %|
@@ -166,11 +167,11 @@ alignerOneTwo = \relative {
 }
 
 lyricOneTwo = \lyricmode {
-  Bo -- gu ni -- šta ni -- je __ %|
+  \set stanza = "2." Bo -- gu ni -- šta ni -- je __ %|
   skri -- ve -- no. __ %|
   On sve vi -- di, po -- zna -- je. __ %|
   %|
-  Nje -- mu vje -- ru -- jem on će %|
+  Nje -- mu vje -- ru -- jem, On će %|
   is -- pu -- ni -- ti sve __ %|
   što o -- be -- ća -- o je. __ %|
   %|
@@ -191,8 +192,8 @@ alignerOneThree = \relative {
   c2 r4 r8 c8 |
   c8 c8 c8 c8 c8 c4 c8 |
   c4 c4 c8 c4 c8( |
-  c4 c8 c8) c8 c8 r8 c8 |
-  r2 r2 |
+  c4 c8 c8) c8 c8 r8 c8( |
+  c2) r2 |
   r4 r8 r8 r8 r8 r8 r8 |
   r4 r8 r8 r4 r4 |
   r4 r8 r8 r4 r8 r8 |
@@ -208,9 +209,9 @@ lyricOneThree = \lyricmode {
   kad se na -- iz -- gled ne -- %|
   rije -- ši -- vi pro -- ble -- mi po -- ja -- %|
   ve. I %|
-  tad sam si -- gu -- ran on me %|
+  tad sam si -- gu -- ran, On me %|
   iz -- ne -- vje -- ri -- ti __ %|
-  ne mo -- že. %|
+  ne mo -- že. __ %|
   %|
   %|
   %|

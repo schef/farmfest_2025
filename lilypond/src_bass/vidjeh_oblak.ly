@@ -1,7 +1,7 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
-aFourR = {}
+aFourL = {}
 \include "include.ily"
 %markMoj = #(define-music-function (letter) (string?) #{ \mark \markup { \box \bold #letter } #})
 %\pointAndClickOff
@@ -13,13 +13,14 @@ aFourR = {}
 \header {
   title = "VIDJEH OBLAK"
   composer = "108i"
+  titlex = "Farmfest 2025 (BASS)"
   style = ""
-  broj = "9"
+  broj = "11"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
 \paper {
-  \aFourR
+  \aFourL
   %min-systems-per-page = #7
   %annotate-spacing = ##t
   %system-system-spacing.padding = #3.2
@@ -36,7 +37,7 @@ staffOne = \relative c' {
   c4 g'4 fis8 g8 d8 g,8 ~|
   g4 g'4 fis8 g8 fis8 a8 ~|
   a8 g8 fis8 g8 fis8 e8 d8 e8 \bar ":|." | \break
-  \markMoj
+  \markMojPonRight
   r4 g8 g8 fis8 g4 fis8 ~|
   fis8 g4 a8 ~a8 g4. |
   r4 d8 h'8 a8 h4 a8 ~|
@@ -55,7 +56,8 @@ staffOne = \relative c' {
   g2 g2 |
   a2 a2 ~|
   a1 \bar "||" | \break
-  \bar ".|:" \markMoj
+  \bar ".|:" \markMojPonn
+  \once \override Score.RehearsalMark.X-offset = #3
   r4 g4 fis8 g8 fis8 c8 ~|
   c4 g'4 fis8 g8 d8 g,8 ~|
   g4 g'4 fis8 g8 fis8 a8 ~|
@@ -148,13 +150,13 @@ lyricOneZero = \lyricmode {
   %|
   %|
   %|
-  Vi -- djeh o -- blak, na __ %|
-  njem ne -- tko. %|
-  Zlat -- ni vje -- nac mu __ %|
+  \set stanza = "1." Vi -- djeh o -- blak, na __ %|
+  njem ne -- tko, %|
+  zlat -- ni vje -- nac mu __ %|
   na gla -- vi. %|
   O -- štar mač u ru -- %|
-  ci dr -- ži. %|
-  Prav -- du Bož -- ju da __ %|
+  ci dr -- ži, %|
+  prav -- du Bož -- ju da __ %|
   o -- bja -- vi. %|
   A Nje -- mu će %|
   pje -- vat: %|
@@ -220,13 +222,13 @@ lyricOneOne = \lyricmode {
   %|
   %|
   %|
-  Vi -- djeh ne -- bo o -- %|
-  tvo -- re -- no. %|
-  _ Na kon -- ju bjel -- %|
+  \set stanza = "2." Vi -- djeh ne -- bo o -- %|
+  tvo -- re -- no, %|
+  _ na kon -- ju bjel -- %|
   cu sje -- di. %|
   Voj -- ske ne -- bes -- ke __ %|
-  ga pra -- te. %|
-  Prav -- du Bož -- ju da __ %|
+  ga pra -- te, %|
+  prav -- du Bož -- ju da __ %|
   o -- bja -- vi. %|
   I mi će -- mo %|
   pje -- vat: %|
@@ -292,13 +294,13 @@ lyricOneTwo = \lyricmode {
   %|
   %|
   %|
-  Sva -- ka si -- la zla __ %|
-  će pa -- sti. %|
-  Jer do -- la -- zi On __ %|
+  \set stanza = "3." Sva -- ka si -- la zla __ %|
+  će pa -- sti, %|
+  jer do -- la -- zi On __ %|
   po svo -- je. %|
   Sve -- ti na -- rod da __ %|
-  iz -- ba -- vi. %|
-  Sla -- vu svo -- ju da __ %|
+  iz -- ba -- vi, %|
+  sla -- vu svo -- ju da __ %|
   o -- bja -- vi. %|
   %|
   %|

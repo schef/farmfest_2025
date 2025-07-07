@@ -1,4 +1,4 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
 aFourL = {}
@@ -12,10 +12,10 @@ aFourL = {}
 
 \header {
   title = "TO DADE BOG"
-  titlex = "(Es Walte Gott)"
+  titlex = "Es Walte Gott"
   composer = "Rebecca Watta"
   style = ""
-  broj = "6"
+  broj = "8"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -29,59 +29,59 @@ aFourL = {}
 }
 
 staffOne = \relative c' {
-  \key fis \major
+  \key ges \major
   \time 3/4
   %\tempo 4 = 75
   \partial 4.
-  ais'8 cis8 fis8 \bar "||" |
+  b'8 des8 ges8 \bar "||" |
   \time 5/8
   \markMoj
-  dis4 cis8 cis8 h8 |
+  es4 des8 des8 ces8 |
   \time 4/4
-  cis4 ais4 r8 gis8 ais8 dis8 |
+  des4 b4 r8 as8 b8 es8 |
   \time 3/4
-  cis8 h8 ais4 gis4 |
-  fis4. ais8 cis8 fis8 | \break
+  des8 ces8 b4 as4 |
+  ges4. b8 des8 ges8 |
   \time 5/8
-  dis4 cis8 cis8 h8 |
+  es4 des8 des8 ces8 |
   \time 4/4
-  cis4 ais4 r8 gis8 ais8 dis8 |
+  des4 b4 r8 as8 b8 es8 |
   \time 3/4
-  cis8 h8 ais4 gis4 |
-  fis4. fis8 gis8 cis8 \bar "||" | \break
+  des8 ces8 b4 as4 |
+  ges4. ges8 as8 des8 \bar "||" | \break
   \time 5/8
   \markMoj
-  ais4 fis8 h8 gis8 |
-  cis4 dis4 eis8 |
-  fis4 eis8 dis8 fis8 |
-  eis4 cis8 cis8 fis8 \bar "||" | \break
+  b4 ges8 ces8 as8 |
+  des4 es4 f8 |
+  ges4 f8 es8 ges8 |
+  f4 des8 des8 ges8 | \break
   \time 5/8
-  dis4 cis8 cis8 h8 |
+  es4 des8 des8 ces8 |
   \time 4/4
-  cis4 ais4 r8 gis8 ais8 dis8 |
+  des4 b4 r8 as8 b8 es8 |
   \time 3/4
-  cis8 h8 ais4 gis4 |
-  fis4. r8 r4 |
+  des8 ces8 b4 as4 |
+  ges4. r8 r4 |
 }
 
 harmonyOne = \chordmode  {
   s4. |
-  h4. gis8:m7 s8 |
-  cis4 dis8:m s4 cis4 s8 |
-  h4 fis8/cis s8 cis4 |
-  fis8 s4. fis8/ais s8 |
-  h4. gis4:m7 |
-  cis4 dis4.:m cis8 s4 |
-  h4 fis4/cis cis4 |
-  fis2 cis4/eis |
-  fis4 s8 gis4:m7 |
-  fis8/ais s8 h4. |
-  dis4.:m gis8/his s8 |
-  cis4. fis4/ais |
-  h4 s8 gis4:m7 |
-  cis8 s8 dis4.:m cis4. |
-  h8 s8 fis4/cis cis8 s8 |
-  fis4. s8 fis4/ais |
+  ces4. as8:m7 s8 |
+  des4 es8:m s4 des4 s8 |
+  ces4 ges8/des s8 des4 |
+  ges8 s4. ges8/b s8 |
+  ces4. as4:m7 |
+  des4 es4.:m des8 s4 |
+  ces4 ges4/des des4 |
+  ges2 des4/f |
+  ges4 s8 as4:m7 |
+  ges8/b s8 ces4. |
+  es4.:m as8/c s8 |
+  des4. ges4/b |
+  ces4 s8 as4:m7 |
+  des8 s8 es4.:m des4. |
+  ces8 s8 ges4/des des8 s8 |
+  ges4. s8 ges4/b |
   \bar "|."
 }
 
@@ -106,21 +106,21 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  To da -- de %|
+  \set stanza = "1." To da -- de %|
   Bog u mo -- me %|
-  sr -- cu Po vo -- lji %|
+  sr -- cu, po vo -- lji %|
   Kri -- sta I -- su -- %|
-  sa Dal’ slav -- lje, %|
+  sa. Dal’ slav -- lje, %|
   pi -- ta -- nja il' %|
-  su -- ze On dr -- ži %|
+  su -- ze, On dr -- ži %|
   sve u ru -- ka -- %|
-  ma On vje -- čno %|
+  ma. On vje -- čno %|
   ču -- va mo -- je %|
-  i -- me Ni %|
+  i -- me, ni %|
   dug mi ne bro -- %|
-  ji Sra -- mo -- te %|
+  ji, sra -- mo -- te %|
   mo -- je vi -- še %|
-  ne -- ma Riječ Nje -- go -- %|
+  ne -- ma, riječ Nje -- go -- %|
   va je do -- volj -- %|
   na. %|
 }
@@ -146,19 +146,19 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  To da -- de %|
+  \set stanza = "2." To da -- de %|
   Bog, naš do -- bar %|
-  O -- tac On sve -- mo -- %|
-  ćan je je -- di -- %|
-  ni Ne su -- sta -- %|
+  O -- tac. On sve -- mo -- %|
+  ćan je, je -- di -- %|
+  ni. Ne su -- sta -- %|
   je i ne -- će %|
-  pas -- ti I dr -- ži %|
+  pas -- ti, i dr -- ži %|
   što o -- be -- ća -- %|
-  je Na gla -- vi %|
+  je. Na gla -- vi %|
   bro -- ji sva -- ku %|
-  vlas On put %|
+  vlas, On put %|
   do -- bar po -- zna -- %|
-  je· Ko -- ji kroz %|
+  je, ko -- ji kroz %|
   ta -- mu me -- ne %|
   vo -- di u svo -- je %|
   ru -- ke ši -- ro -- %|
@@ -186,21 +186,21 @@ alignerOneTwo = \relative {
 }
 
 lyricOneTwo = \lyricmode {
-  To da -- de %|
+  \set stanza = "3." To da -- de %|
   Bog, sve što ja %|
-  je -- sam, Moj ži -- vot %|
+  je -- sam. Moj ži -- vot %|
   nje -- mu pri -- pa -- %|
-  da Nje -- gov je %|
+  da. Nje -- gov je %|
   svijet i sve na %|
-  nje -- mu Po njem’ do -- %|
+  nje -- mu, po Njem’ do -- %|
   bi -- va smi -- sa -- %|
-  o Me -- ne je %|
+  o. Me -- ne je %|
   pr -- vi lju -- bi -- %|
-  o Po -- zna -- %|
+  o, po -- zna -- %|
   o i cije -- ni -- %|
-  o Ži -- vot je %|
+  o. Ži -- vot je %|
   si -- gu -- ran u %|
-  nje -- mu· gdje ne -- iz -- %|
+  Nje -- mu, gdje ne -- iz -- %|
   mjer -- no vrije -- dan %|
   sam. %|
 }

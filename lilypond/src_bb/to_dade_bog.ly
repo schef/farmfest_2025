@@ -1,4 +1,4 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
 aFourL = {}
@@ -12,10 +12,10 @@ aFourL = {}
 
 \header {
   title = "TO DADE BOG"
-  titlex = "(Es Walte Gott)"
+  titlex = "Es Walte Gott"
   composer = "Rebecca Watta"
   style = ""
-  broj = "6"
+  broj = "8"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -41,7 +41,7 @@ staffOne = \relative c' {
   fis4 dis4 r8 cis8 dis8 gis8 |
   \time 3/4
   fis8 e8 dis4 cis4 |
-  h4. dis8 fis8 h8 | \break
+  h4. dis8 fis8 h8 |
   \time 5/8
   gis4 fis8 fis8 e8 |
   \time 4/4
@@ -54,7 +54,7 @@ staffOne = \relative c' {
   dis4 h8 e8 cis8 |
   fis4 gis4 ais8 |
   h4 ais8 gis8 h8 |
-  ais4 fis8 fis8 h8 \bar "||" | \break
+  ais4 fis8 fis8 h8 | \break
   \time 5/8
   gis4 fis8 fis8 e8 |
   \time 4/4
@@ -106,21 +106,21 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  To da -- de %|
+  \set stanza = "1." To da -- de %|
   Bog u mo -- me %|
-  sr -- cu Po vo -- lji %|
+  sr -- cu, po vo -- lji %|
   Kri -- sta I -- su -- %|
-  sa Dal’ slav -- lje, %|
+  sa. Dal’ slav -- lje, %|
   pi -- ta -- nja il' %|
-  su -- ze On dr -- ži %|
+  su -- ze, On dr -- ži %|
   sve u ru -- ka -- %|
-  ma On vje -- čno %|
+  ma. On vje -- čno %|
   ču -- va mo -- je %|
-  i -- me Ni %|
+  i -- me, ni %|
   dug mi ne bro -- %|
-  ji Sra -- mo -- te %|
+  ji, sra -- mo -- te %|
   mo -- je vi -- še %|
-  ne -- ma Riječ Nje -- go -- %|
+  ne -- ma, riječ Nje -- go -- %|
   va je do -- volj -- %|
   na. %|
 }
@@ -146,19 +146,19 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  To da -- de %|
+  \set stanza = "2." To da -- de %|
   Bog, naš do -- bar %|
-  O -- tac On sve -- mo -- %|
-  ćan je je -- di -- %|
-  ni Ne su -- sta -- %|
+  O -- tac. On sve -- mo -- %|
+  ćan je, je -- di -- %|
+  ni. Ne su -- sta -- %|
   je i ne -- će %|
-  pas -- ti I dr -- ži %|
+  pas -- ti, i dr -- ži %|
   što o -- be -- ća -- %|
-  je Na gla -- vi %|
+  je. Na gla -- vi %|
   bro -- ji sva -- ku %|
-  vlas On put %|
+  vlas, On put %|
   do -- bar po -- zna -- %|
-  je· Ko -- ji kroz %|
+  je, ko -- ji kroz %|
   ta -- mu me -- ne %|
   vo -- di u svo -- je %|
   ru -- ke ši -- ro -- %|
@@ -186,21 +186,21 @@ alignerOneTwo = \relative {
 }
 
 lyricOneTwo = \lyricmode {
-  To da -- de %|
+  \set stanza = "3." To da -- de %|
   Bog, sve što ja %|
-  je -- sam, Moj ži -- vot %|
+  je -- sam. Moj ži -- vot %|
   nje -- mu pri -- pa -- %|
-  da Nje -- gov je %|
+  da. Nje -- gov je %|
   svijet i sve na %|
-  nje -- mu Po njem’ do -- %|
+  nje -- mu, po Njem’ do -- %|
   bi -- va smi -- sa -- %|
-  o Me -- ne je %|
+  o. Me -- ne je %|
   pr -- vi lju -- bi -- %|
-  o Po -- zna -- %|
+  o, po -- zna -- %|
   o i cije -- ni -- %|
-  o Ži -- vot je %|
+  o. Ži -- vot je %|
   si -- gu -- ran u %|
-  nje -- mu· gdje ne -- iz -- %|
+  Nje -- mu, gdje ne -- iz -- %|
   mjer -- no vrije -- dan %|
   sam. %|
 }

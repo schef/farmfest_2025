@@ -1,4 +1,4 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
 aFourL = {}
@@ -15,7 +15,7 @@ aFourL = {}
   composer = "Shane & Shane"
   titlex = "Psalm 42 (Loudest Praise)"
   style = ""
-  broj = "5"
+  broj = "7"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
@@ -145,7 +145,7 @@ alignerOneZero = \relative {
 }
 
 lyricOneZero = \lyricmode {
-  Ko što %|
+  \set stanza = "1." Ko što %|
   je -- len tra -- ži %|
   vo -- du, __ du -- ša %|
   mo -- ja tra -- ži %|
@@ -217,7 +217,7 @@ alignerOneOne = \relative {
 }
 
 lyricOneOne = \lyricmode {
-  Du -- ša %|
+  \set stanza = "2." Du -- ša %|
   tu -- gu -- je u %|
   me -- ni, __ val za %|
   va -- lom lo -- mi %|

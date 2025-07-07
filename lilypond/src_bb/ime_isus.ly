@@ -1,7 +1,7 @@
-\version "2.24.3"
+\version "2.24.4"
 \include "deutsch.ly"
 jazzChords = { \semiGermanChords }
-aFourL = {}
+aFourR = {}
 \include "include.ily"
 %markMoj = #(define-music-function (letter) (string?) #{ \mark \markup { \box \bold #letter } #})
 %\pointAndClickOff
@@ -13,13 +13,14 @@ aFourL = {}
 \header {
   title = "IME ISUS"
   composer = "Danko Tomanić"
+  titlex = "Farmfest 2025"
   style = ""
-  broj = "2"
+  broj = "3"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
 }
 
 \paper {
-  \aFourL
+  \aFourR
   %min-systems-per-page = #7
   %annotate-spacing = ##t
   %system-system-spacing.padding = #3.2
@@ -116,7 +117,7 @@ lyricOneZero = \lyricmode {
   lan -- ce __ po -- ki -- %|
   da -- ti, __ sve o -- %|
   kre -- nu -- ti u %|
-  tre -- nu __ da do -- %|
+  tre -- nu, __ da do -- %|
   ži -- viš __ no -- vu mje -- %|
   nu? I -- me %|
   I -- sus. %|
@@ -128,21 +129,21 @@ lyricOneZero = \lyricmode {
   I -- sus. %|
   I -- me %|
   I -- sus, __ %|
-  I -- me %|
+  i -- me %|
   I -- sus. %|
   %|
 }
 
 alignerOneOne = \relative {
   c8 c8 |
-  c8 c8( c4) c8 c8( c4) |
+  c8 c8 r4 c8 c8( c4) |
   c8 c8( c2) c8 c8 |
   c8 c8( c2) c8 c8 |
   c8 c8( c2) c8 c8 |
   c8 c8( c2) c8 c8 |
   c8 c4.( c8 c8) c8 c8 |
   c8 c8( c4) c4 c8 c8 |
-  r8 c8( c4) c4 c4 |
+  r8 c8 r4 c4 c4 |
   c4 c2 r4 |
   r2 c4 c4 |
   c4 c4 c8 c4 c8( |
@@ -159,14 +160,14 @@ alignerOneOne = \relative {
 
 lyricOneOne = \lyricmode {
   \set stanza = "2." On me %|
-  sna -- gom __ svo -- jom __ %|
-  di -- že. __ Sva -- kog %|
+  sna -- gom svo -- jom __ %|
+  di -- že, __ sva -- kog %|
   tre -- na __ sve smo %|
-  bli -- že __ i ja %|
-  nje -- mu __ i on %|
-  me -- ni, __ haj -- de %|
+  bli -- že; __ i ja %|
+  Nje -- mu __ i On %|
+  me -- ni. __ Haj -- de %|
   i ti __ list o -- kre -- %|
-  ni. __ I -- me %|
+  ni. I -- me %|
   I -- sus. %|
   I -- me %|
   I -- sus On je taj, __ %|
@@ -190,7 +191,7 @@ alignerOneTwo = \relative {
   c8 c8( c2) c8 c8 |
   c8 c4.( c8) c8 c8 c8 |
   c8 c8( c4) c4 c8 c8 |
-  r8 c8( c4) c4 c4 |
+  r8 c8 r4 c4 c4 |
   c4 c2 r4 |
   r2 c4 c4 |
   c4 c4 c8 c4 c8( |
@@ -209,12 +210,12 @@ lyricOneTwo = \lyricmode {
   \set stanza = "3." Sna -- gom %|
   svo -- je __ rije -- či __ %|
   lije -- či. __ Haj -- te %|
-  "k nje" -- mu __ što vas %|
+  "k Nje" -- mu, __ što vas %|
   prije -- či? __ Za sve %|
-  nas on __ mje -- sta %|
+  nas On __ mje -- sta %|
   i -- ma __ u svo -- jim %|
   mi -- lim __ sta -- no -- vi -- %|
-  ma. __ I -- me %|
+  ma. I -- me %|
   I -- sus. %|
   I -- me %|
   I -- sus On je taj, __ %|
