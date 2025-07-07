@@ -1,5 +1,7 @@
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/bez_ljubavi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/bog_je_moja_snaga.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/ime_isus.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/isus_nazarecanin.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/pastir_moje_duse.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/poziv.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/psalam_42.ly
@@ -7,8 +9,10 @@ lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/far
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/tvoje_nebo.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/u_duhu_budite_gorljivi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_c /home/schef/git/farmfest_2025/lilypond/src_c/vidjeh_oblak.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/bez_ljubavi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/bog_je_moja_snaga.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/ime_isus.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/isus_nazarecanin.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/pastir_moje_duse.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/poziv.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/psalam_42.ly
@@ -16,8 +20,10 @@ lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/far
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/tvoje_nebo.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/u_duhu_budite_gorljivi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bb /home/schef/git/farmfest_2025/lilypond/src_bb/vidjeh_oblak.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/bez_ljubavi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/bog_je_moja_snaga.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/ime_isus.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/isus_nazarecanin.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/pastir_moje_duse.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/poziv.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/psalam_42.ly
@@ -25,8 +31,10 @@ lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/far
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/tvoje_nebo.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/u_duhu_budite_gorljivi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_eb /home/schef/git/farmfest_2025/lilypond/src_eb/vidjeh_oblak.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/bez_ljubavi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/bog_je_moja_snaga.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/ime_isus.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/isus_nazarecanin.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/pastir_moje_duse.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/poziv.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/psalam_42.ly
@@ -34,8 +42,10 @@ lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/far
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/tvoje_nebo.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/u_duhu_budite_gorljivi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bass /home/schef/git/farmfest_2025/lilypond/src_bass/vidjeh_oblak.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/bez_ljubavi.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/bog_je_moja_snaga.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/ime_isus.ly
+lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/isus_nazarecanin.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/pastir_moje_duse.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/poziv.ly
 lilypond -I /home/schef/git/farmfest_2025/lilypond/config -o /home/schef/git/farmfest_2025/lilypond/bin_bto /home/schef/git/farmfest_2025/lilypond/src_bto/psalam_42.ly

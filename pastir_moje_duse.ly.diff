@@ -1,0 +1,13 @@
+diff --git a/lilypond/src_c/pastir_moje_duse.ly b/lilypond/src_c/pastir_moje_duse.ly
+index dd3bd51..7c596c1 100644
+--- a/lilypond/src_c/pastir_moje_duse.ly
++++ b/lilypond/src_c/pastir_moje_duse.ly
+@@ -23,7 +23,7 @@ aFourL = {}
+   \aFourL
+   %min-systems-per-page = #7
+   %annotate-spacing = ##t
+-  system-system-spacing.padding = #2.11
++  %system-system-spacing.padding = #3.2
+   %page-breaking = #ly:one-page-breaking
+   %last-bottom-spacing.minimum-distance = #8
+ }

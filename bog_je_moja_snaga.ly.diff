@@ -1,0 +1,13 @@
+diff --git a/lilypond/src_c/bog_je_moja_snaga.ly b/lilypond/src_c/bog_je_moja_snaga.ly
+index deba49f..0cd151f 100644
+--- a/lilypond/src_c/bog_je_moja_snaga.ly
++++ b/lilypond/src_c/bog_je_moja_snaga.ly
+@@ -40,7 +40,7 @@ staffOne = \relative c' {
+   a4 )g4 f8 e4 d8 (~|
+   d4 ~d8 ~d8 )d8 d8 (c8 )d8 (|
+   d2 )r2 \bar ":|." | \break
+-  \markMojPonRight
++  \markMoj
+   r4 c'8 c8 c8 c8 c8 c8 |
+   d4 c8 c8 ~c4 r4 |
+   r4 c8 a8 c4 c8 a8 |
