@@ -31,7 +31,7 @@ romanChordsMusic =
   <c f g b>-\markup { }
   <c es g b>-\markup { }
   <c es ges b>-\markup { }
-  <c es ges heses>-\markup { \dim \sedam }
+  <c es ges heses>-\markup { }
   %nonakordi
   <c e g b c'>-\markup { }
   <c es g b d'>-\markup { }
