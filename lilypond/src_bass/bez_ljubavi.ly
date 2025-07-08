@@ -41,7 +41,7 @@ staffOne = \relative c' {
   fis'8. g16 ~g16 fis8. e2 | \break
   r1 |
   r1 \bar ":|." | \break
-  \markMojPonnRight
+  \markMojPonRight
   d'8. cis16 ~cis16 h8. a8. fis16 ~fis8 e8 ~|
   e8 d4. r4 r8 d8 |
   d'8. cis16 ~cis16 h8. a8. fis16 ~fis8 h8 ~|

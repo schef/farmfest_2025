@@ -1,7 +1,7 @@
 from pdfreader import PDFDocument
 from glob import glob
 
-PATH = "./lilypond/bin_eb/"
+PATH = "./lilypond/bin_nashville/"
 PDF_PAGES_COUNTER_FILE = "pdf_page_counter.txt"
 
 lines = []
