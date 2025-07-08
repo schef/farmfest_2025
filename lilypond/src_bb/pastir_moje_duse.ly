@@ -23,7 +23,7 @@ aFourL = {}
   \aFourL
   %min-systems-per-page = #7
   %annotate-spacing = ##t
-  system-system-spacing.padding = #2.11
+  system-system-spacing.padding = #2.0
   %page-breaking = #ly:one-page-breaking
   %last-bottom-spacing.minimum-distance = #8
   %system-system-spacing.basic-distance = #5
