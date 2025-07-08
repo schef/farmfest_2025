@@ -6,7 +6,7 @@ chordSharp = \markup { \hspace #0 \fontsize #0 \raise #0.3 "#" }
 
 min = \markup { \fontsize #0 \raise #0 \char ##x2013 }
 maj = \markup { \fontsize #0 \raise #0 \char ##x0394 }
-dim = \markup { \hspace #-0.2 \fontsize #-5 \raise #0.8 \char ##x00b0)) }
+dim = \markup { \hspace #-0.2 \fontsize #-5 \raise #0.8 \char ##x00b0 }
 hdim = \markup { \fontsize #0 \raise #0 \char ##x00d8 }
 aug = \markup { \fontsize #0 \raise #0 "+" }
 cetri = \markup { \fontsize #0 \raise #0 "4" }
@@ -31,6 +31,7 @@ romanChordsMusic =
   <c f g b>-\markup { }
   <c es g b>-\markup { }
   <c es ges b>-\markup { }
+  <c es ges heses>-\markup { \dim \sedam }
   %nonakordi
   <c e g b c'>-\markup { }
   <c es g b d'>-\markup { }
