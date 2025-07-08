@@ -26,6 +26,8 @@ aFourL = {}
   system-system-spacing.padding = #2.11
   %page-breaking = #ly:one-page-breaking
   %last-bottom-spacing.minimum-distance = #8
+  %system-system-spacing.basic-distance = #5
+  %line-width = 170\mm % adjust margins
 }
 
 staffOne = \relative c' {
@@ -43,11 +45,11 @@ staffOne = \relative c' {
   eis4 r4 r2 \bar "||" | \break
   \markMoj
   cis'4 (his8 ais8 gis8. )eis16 ~eis8 dis8 |
-  r8 dis8 dis8 dis8 dis8 eis8 dis8 cis8 |
+  r8 dis8 dis8 dis8 dis8 eis8 dis8 cis8 | \noBreak
   cis'4 (his8 ais8 gis8. eis16 ~eis8 )dis8 |
   r2 gis8 ais8 cis8 eis8 | \break
   dis4 cis8 gis8 ais8. eis'16 ~eis8 dis8 ~|
-  dis8 cis4. gis8 ais8 cis8 eis8 |
+  dis8 cis4. gis8 ais8 cis8 eis8 | \noBreak
   dis8 cis8 ais8 gis8 ais8. eis'16 ~eis8 dis8 ~|
   dis8 cis4 (his8 ~his2 )\bar "||" | \break
   \markMoj
