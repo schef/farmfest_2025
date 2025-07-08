@@ -12,7 +12,7 @@ aFourR = {}
 
 \header {
   title = "TVOJE NEBO"
-  titlex = "Farmfest 2025"
+  titlex = "Farmfest 2025 (Eb)"
   composer = "Danko Tomanić"
   style = ""
   broj = "9"

@@ -12,7 +12,7 @@ aFourL = {}
 
 \header {
   title = "TO DADE BOG"
-  titlex = "Es Walte Gott"
+  titlex = "Es Walte Gott (Eb)"
   composer = "Rebecca Watta"
   style = ""
   broj = "8"

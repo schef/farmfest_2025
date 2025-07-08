@@ -13,7 +13,7 @@ aFourR = {}
 \header {
   title = "IME ISUS"
   composer = "Danko Tomanić"
-  titlex = "Farmfest 2025"
+  titlex = "Farmfest 2025 (Bb)"
   style = ""
   broj = "3"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }

@@ -12,7 +12,7 @@ aFourL = {}
 
 \header {
   title = "PASTIR MOJE DUŠE"
-  titlex = "Shepherd Of My Soul"
+  titlex = "Shepherd Of My Soul (Eb)"
   composer = "Rivers & Robots"
   style = ""
   broj = "5"

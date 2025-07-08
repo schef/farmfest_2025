@@ -12,7 +12,7 @@ aFourL = {}
 
 \header {
   title = "BEZ LJUBAVI"
-  titlex = "Without Love"
+  titlex = "Without Love (Eb)"
   composer = "Jonathan Ogden"
   style = ""
   broj = "1"

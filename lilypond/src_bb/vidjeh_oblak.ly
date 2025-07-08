@@ -13,7 +13,7 @@ aFourL = {}
 \header {
   title = "VIDJEH OBLAK"
   composer = "108i"
-  titlex = "Farmfest 2025"
+  titlex = "Farmfest 2025 (Bb)"
   style = ""
   broj = "11"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }

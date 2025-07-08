@@ -13,7 +13,7 @@ aFourL = {}
 \header {
   title = "ISUS NAZAREĆANIN"
   composer = "John Van Deusen"
-  titlex = "Jesus Of Nazareth"
+  titlex = "Jesus Of Nazareth (Bb)"
   style = ""
   broj = "4"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }

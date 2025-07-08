@@ -13,7 +13,7 @@ aFourL = {}
 \header {
   title = "BOG JE MOJA SNAGA"
   composer = "Franko Cetinić"
-  titlex = "Farmfest 2025"
+  titlex = "Farmfest 2025 (Eb)"
   style = ""
   broj = "2"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }

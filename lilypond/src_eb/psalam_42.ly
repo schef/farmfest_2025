@@ -13,7 +13,7 @@ aFourL = {}
 \header {
   title = "PSALAM 42"
   composer = "Shane & Shane"
-  titlex = "Psalm 42 (Loudest Praise)"
+  titlex = "Psalm 42 (Loudest Praise) (Eb)"
   style = ""
   broj = "7"
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
