@@ -52,7 +52,7 @@ staffOne = \relative c' {
   cis8 h4 (ais8 ~ais2 )\bar "||" | \break
   \markMoj
   r8 h8 ais8 gis8 dis8 fis8 gis4 |
-  r8 h8 ais8 gis8 fis8 gis8 dis4 |
+  r8 h8 ais8 gis8 fis8 gis8 dis4 | \noBreak
   r8 h'8 ais8 gis8 dis8 fis8 gis4 |
   r8 h8 ais8 gis8 fis8 gis8 dis8. cis16 | \break
   cis4 h4 cis8 dis8 fis8 dis8 |
