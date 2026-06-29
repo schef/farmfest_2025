@@ -2,7 +2,7 @@ from subprocess import Popen as new
 from generate_book import * 
 
 def open_pdf(song: Song, transposition: Transposition):
-    song_path = get_full_path(f"{transposition.bin_path}/{song.name}.pdf")
+    song_path = get_full_path(f"{transposition.pdf_path}/{song.name}.pdf")
     cmd = f"evince {song_path}"
     return new(cmd, shell=True)
 
